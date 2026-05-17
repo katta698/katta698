@@ -1,46 +1,37 @@
 
-
 <h1 align="center">Hi, I'm Jayanth Katta</h1>
 
 <h3 align="center">
-Cloud • Infrastructure • Terraform • Databases • Automation
+AWS Infrastructure Engineer | Cloud | Terraform | DevOps | Databases
 </h3>
 
 <p align="center">
-  <a href="https://aws.amazon.com">
-    <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws">
-  </a>
-  
-  <a href="https://www.terraform.io">
-    <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform">
-  </a>
-
-  <a href="https://azure.microsoft.com">
-    <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure">
-  </a>
-
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github">
-  </a>
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform">
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure">
+  <img src="https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=githubactions">
 </p>
 
 ---
 
 ## About Me
 
-Cloud Engineer with a strong database and infrastructure background, building hands-on projects across AWS, Terraform, automation, and cloud architecture.
+I am an AWS Infrastructure Engineer with a strong background in database administration, cloud infrastructure, automation, and platform operations.
 
-I enjoy designing practical infrastructure, troubleshooting real-world issues, and documenting everything I learn along the way.
+My current focus is building practical cloud projects using AWS, Terraform, GitHub Actions, Kubernetes, and DevOps workflows.
+
+I use GitHub and my blog to document real-world implementation steps, architecture diagrams, troubleshooting notes, and lessons learned.
 
 ---
 
 ## Current Focus
 
-- 30 Days AWS Terraform Challenge
-- Infrastructure as Code using Terraform
-- AWS cloud architecture and automation
-- CI/CD and GitHub Actions
-- Kubernetes and GitOps learning
+- AWS infrastructure projects
+- Terraform and Infrastructure as Code
+- GitHub Actions CI/CD
+- Kubernetes and GitOps
+- Cloud architecture and automation
+- Database modernization and migration
 
 ---
 
@@ -48,53 +39,33 @@ I enjoy designing practical infrastructure, troubleshooting real-world issues, a
 
 ### 30 Days AWS Terraform Challenge
 
-Real-world AWS infrastructure projects built using Terraform with architecture diagrams, validation steps, troubleshooting notes, and automation workflows.
+Hands-on AWS and Terraform projects covering VPC, EC2, ALB, RDS, S3, CloudWatch, IAM, EKS, GitHub Actions, security, monitoring, and production-style cloud patterns.
 
-🔗 Repository  
-https://github.com/katta698/30-days-aws-terraform
-
----
-
-## Skills
-
-### Cloud
-- AWS
-- Azure
-
-### Infrastructure & DevOps
-- Terraform
-- GitHub Actions
-- Docker
-- Linux
-- CI/CD
-
-### Databases
-- Oracle
-- SQL Server
-- PostgreSQL
-- MongoDB
-- MySQL
+[View Repository](https://github.com/katta698/30-days-aws-terraform)
 
 ---
 
-## Blog
+## Tech Stack
 
-I write about cloud engineering, automation, infrastructure, architecture, troubleshooting, and practical project implementations.
-
-🌐 https://www.jayanthkatta.com
-
----
-
-## Connect With Me
-
-- LinkedIn  
-  https://www.linkedin.com/in/jayanthkatta
-
-- GitHub  
-  https://github.com/katta698
-
----
-
-<p align="center">
-  <b>Build • Learn • Automate • Document</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,kubernetes,githubactions,linux,bash,vscode,git">
 </p>
+
+---
+
+## Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge&logo=oracle">
+  <img src="https://img.shields.io/badge/SQL_Server-Database-CC2927?style=for-the-badge&logo=microsoftsqlserver">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql">
+</p>
+
+---
+
+## Engineering Mindset
+
+```text
+Build → Automate → Secure → Monitor → Troubleshoot → Document
