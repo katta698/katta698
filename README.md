@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" alt="Jayanth Katta Banner" width="100%">
-</p>
+
 
 <h1 align="center">Hi, I'm Jayanth Katta</h1>
 
