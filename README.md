@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Jayanth Katta</h1>
 
 <h3 align="center">
@@ -61,6 +60,18 @@ Hands-on AWS and Terraform projects covering VPC, EC2, ALB, RDS, S3, CloudWatch,
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql">
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb">
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql">
+</p>
+
+---
+
+### 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=katta698&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katta698&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
