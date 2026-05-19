@@ -9,7 +9,7 @@
       <p><em>"There are 10 types of people in the world: those who understand binary, and those who don't."</em> 🚀</p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://images.prodia.com/edc2306d-e4c1-4ec1-9f93-0cc25740bf87.png" width="340" alt="Subtle Coding & Cloud Illustration" style="border-radius: 10px;"/>
+      <img src="https://github.com/user-attachments/assets/0837dda5-951b-4f73-b6ec-c1857ca2ddb6" width="340" alt="Subtle Coding & Cloud Illustration" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
