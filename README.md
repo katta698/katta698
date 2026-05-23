@@ -105,8 +105,8 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 ## 📬 Let's Connect
 
 <p>
-  <a href="www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="[https://YOUR-BLOG-URL](https://www.jayanthkatta.com/)"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=blogger&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.jayanthkatta.com/"><img src="https://img.shields.io/badge/Blog-FF9900?style=flat-square&logo=blogger&logoColor=white" /></a>
   <a href="https://github.com/katta698"><img src="https://img.shields.io/badge/GitHub-katta698-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
