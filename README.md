@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF9900&vCenter=true&width=600&lines=Hi%2C+I'm+Jayanth+Katta.;AWS+Infrastructure+Engineer.;I+automate+things+that+shouldn't+be+manual.;I+document+things+that+shouldn't+be+tribal." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF9900&vCenter=true&width=700&lines=Hi%2C+I'm+Jayanth+Katta.;AWS+Infrastructure+Engineer.;I+automate+the+manual.;I+document+the+tribal." alt="Typing SVG" />
 
 <img align="right" src="https://github.com/user-attachments/assets/0837dda5-951b-4f73-b6ec-c1857ca2ddb6" width="320" alt="Cloud infrastructure illustration" />
 
