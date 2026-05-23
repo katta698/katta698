@@ -4,7 +4,20 @@
 
 </div>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td width="58%" valign="top"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF9900&vCenter=true&width=500&lines=Hi%2C+I'm+Jayanth+Katta.;AWS+Infrastructure+Engineer.;I+automate+things+that+shouldn't+be+manual.;I+document+things+that+shouldn't+be+tribal." alt="Typing SVG" /><h3>☁️ Cloud Infrastructure · IaC · DevOps</h3><p>I build production-grade AWS infrastructure — VPCs that don't leak, IAM that doesn't over-trust, pipelines that don't break at 2am. Currently deep in a multi-account AWS migration: designing the guardrails, writing the Terraform, and documenting everything so it's never a mystery again.</p><p><strong>What drives my work:</strong><br/>Every manual step is a future incident. Every undocumented decision is a future mystery. I build to eliminate both.</p><br/><p><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></p></td><td width="42%" align="center" valign="middle"><img src="https://github.com/user-attachments/assets/0837dda5-951b-4f73-b6ec-c1857ca2ddb6" width="320" alt="Cloud infrastructure illustration" style="border-radius: 12px;" /></td></tr></table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=FF9900&vCenter=true&width=600&lines=Hi%2C+I'm+Jayanth+Katta.;AWS+Infrastructure+Engineer.;I+automate+things+that+shouldn't+be+manual.;I+document+things+that+shouldn't+be+tribal." alt="Typing SVG" />
+
+<img align="right" src="https://github.com/user-attachments/assets/0837dda5-951b-4f73-b6ec-c1857ca2ddb6" width="320" alt="Cloud infrastructure illustration" />
+
+### ☁️ Cloud Infrastructure · IaC · DevOps
+
+I build production-grade AWS infrastructure — VPCs that don't leak, IAM that doesn't over-trust, pipelines that don't break at 2am. Currently deep in a multi-account AWS migration: designing the guardrails, writing the Terraform, and documenting everything so it's never a mystery again.
+
+**What drives my work:**
+Every manual step is a future incident. Every undocumented decision is a future mystery. I build to eliminate both.
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+<br clear="right"/>
 
 ---
 
