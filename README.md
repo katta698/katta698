@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF9900&vCenter=true&width=700&lines=Hi%2C+I'm+Jayanth+Katta.;AWS+Platform+Engineer.;I+automate+the+manual.;I+document+the+tribal." alt="Typing SVG" />
 
-<img align="right" src="https://github.com/user-attachments/assets/0837dda5-951b-4f73-b6ec-c1857ca2ddb6" width="320" alt="Cloud infrastructure illustration" />
+<img align="right" src="https://github.com/user-attachments/assets/6eab864b-0c9f-4e4a-aa6f-d0b9ce1b3e0d" width="320" alt="Platform Engineer illustration" />
 
 ### ☁️ Cloud Infrastructure · IaC · DevOps
 
