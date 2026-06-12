@@ -1,0 +1,19 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.jayanthkatta.com/feeds/posts/default"
+          max_post_count: 5
+          date_format: "MMM DD, YYYY"
+          template: "- [$title]($url) — $date"
