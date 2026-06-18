@@ -57,9 +57,15 @@ Every manual step is a future incident. Every undocumented decision is a future 
 
 ## ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->- [Week 4 - Building a Fleet Intelligence Platform with AWS Glue, Step Functions &amp; ServiceNow](https://blog.jayanthkatta.com/2026/06/building-fleet-intelligence-platform.html) — 1919 DD, YYYY- [I Built a RAG-Powered Search for My Blog — Here&#39;s Why and How](https://blog.jayanthkatta.com/2026/06/i-built-rag-powered-search-for-my-blog.html) — 4444 DD, YYYY- [Week 3 - Self-Service EC2 Fleet Patching with AWS SSM](https://blog.jayanthkatta.com/2026/06/week-3-self-service-ec2-fleet-patching.html) — 2525 DD, YYYY- [Week 2: Automating PostgreSQL Provisioning with ServiceNow and AWS](https://blog.jayanthkatta.com/2026/05/week-2-automating-postgresql.html) — 1414 DD, YYYY- [Week 1: From Ticket to EC2 in 6 Minutes: Enterprise Self-Service Infrastructure on AWS](https://blog.jayanthkatta.com/2026/05/week-1-from-ticket-to-ec2-in-6-minutes.html) — 2929 DD, YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Week 4 - Building a Fleet Intelligence Platform with AWS Glue, Step Functions & ServiceNow](https://jayanthkatta.com/blog/week-4-building-a-fleet-intelligence-platform-with-aws-glue-/) — Jun 2026
+- [I Built a RAG-Powered Search for My Blog — Here's Why and How](https://jayanthkatta.com/blog/i-built-a-rag-powered-search-for-my-blog-here-s-why-and-how/) — Jun 2026
+- [Week 3 - Self-Service EC2 Fleet Patching with AWS SSM](https://jayanthkatta.com/blog/week-3-self-service-ec2-fleet-patching-with-aws-ssm/) — Jun 2026
+- [Week 2: Automating PostgreSQL Provisioning with ServiceNow and AWS](https://jayanthkatta.com/blog/week-2-automating-postgresql-provisioning-with-servicenow-an/) — May 2026
+- [Week 1: From Ticket to EC2 in 6 Minutes: Enterprise Self-Service Infrastructure on AWS](https://jayanthkatta.com/blog/week-1-from-ticket-to-ec2-in-6-minutes-enterprise-self-servi/) — May 2026
+<!-- BLOG-POST-LIST:END -->
 
-→ [blog.jayanthkatta.com](https://blog.jayanthkatta.com)
+→ [jayanthkatta.com/blog](https://jayanthkatta.com/blog/)
 
 ---
 
@@ -128,7 +134,7 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 
 <p>
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.jayanthkatta.com/"><img src="https://img.shields.io/badge/Blog-jayanthkatta.com-FF9900?style=flat-square&logo=hashnode&logoColor=white" /></a>
+  <a href="https://jayanthkatta.com/blog/"><img src="https://img.shields.io/badge/Blog-jayanthkatta.com%2Fblog-FF9900?style=flat-square&logo=hashnode&logoColor=white" /></a>
   <a href="https://github.com/katta698"><img src="https://img.shields.io/badge/GitHub-katta698-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
