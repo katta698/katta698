@@ -25,7 +25,7 @@ Every manual step is a future incident. Every undocumented decision is a future 
 
 | | |
 |---|---|
-| 🔨 **Building** | Week 4 — Self-Service EC2 Fleet Patching with AWS SSM |
+| 🔨 **Building** | Week 5 — Cost Anomaly Detection (AWS Platform Engineering Lab, 52-week series) |
 | 📖 **Reading** | HashiCorp Certified Terraform Associate 004 |
 | 🎯 **Pursuing** | AWS Solutions Architect Professional |
 
@@ -58,11 +58,11 @@ Every manual step is a future incident. Every undocumented decision is a future 
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 5 - Cost Anomaly Detection with AWS Cost Explorer, SNS, and Lambda](https://jayanthkatta.com/blog/week-5-cost-anomaly-detection-with-aws-cost-explorer-sns-and/) — Jun 2026
 - [Week 4 - Building a Fleet Intelligence Platform with AWS Glue, Step Functions & ServiceNow](https://jayanthkatta.com/blog/week-4-building-a-fleet-intelligence-platform-with-aws-glue-/) — Jun 2026
 - [I Built a RAG-Powered Search for My Blog — Here's Why and How](https://jayanthkatta.com/blog/i-built-a-rag-powered-search-for-my-blog-here-s-why-and-how/) — Jun 2026
 - [Week 3 - Self-Service EC2 Fleet Patching with AWS SSM](https://jayanthkatta.com/blog/week-3-self-service-ec2-fleet-patching-with-aws-ssm/) — Jun 2026
 - [Week 2: Automating PostgreSQL Provisioning with ServiceNow and AWS](https://jayanthkatta.com/blog/week-2-automating-postgresql-provisioning-with-servicenow-an/) — May 2026
-- [Week 1: From Ticket to EC2 in 6 Minutes: Enterprise Self-Service Infrastructure on AWS](https://jayanthkatta.com/blog/week-1-from-ticket-to-ec2-in-6-minutes-enterprise-self-servi/) — May 2026
 <!-- BLOG-POST-LIST:END -->
 
 → [jayanthkatta.com/blog](https://jayanthkatta.com/blog/)
