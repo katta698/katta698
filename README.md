@@ -138,6 +138,8 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
   <a href="https://github.com/katta698"><img src="https://img.shields.io/badge/GitHub-katta698-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=katta698&style=flat-square&color=FF9900" alt="profile views" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=80&section=footer" />
