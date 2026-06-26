@@ -13,7 +13,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.jayanthkatta.com/feeds/posts/default"
+          feed_list: "https://jayanthkatta.com/blog/rss.xml"
           max_post_count: 5
           date_format: "MMM YYYY"
           template: "- [$title]($url) — $date"
