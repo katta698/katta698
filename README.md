@@ -9,22 +9,22 @@
 <br />
 
 <p>
-  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio.svg" height="28" alt="Portfolio" /></a>&nbsp;·&nbsp;
-  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing.svg" height="28" alt="Writing" /></a>&nbsp;·&nbsp;
-  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now.svg" height="28" alt="Now" /></a>&nbsp;·&nbsp;
-  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume.svg" height="28" alt="Résumé" /></a>&nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin.svg" height="32" alt="LinkedIn" /></a>
+  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="Résumé" /></a>&nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin-text.svg" height="28" alt="LinkedIn" /></a>
 </p>
 
 </div>
 
-<img align="right" src="assets/platform-engineer-bohemian.png" width="280" alt="Platform Engineer illustration in the portfolio's bohemian palette" />
+<p align="center">
+  <img src="assets/platform-engineer-bohemian.png" width="520" alt="Platform Engineer illustration in the portfolio's bohemian palette" />
+</p>
 
 I build production-grade AWS infrastructure: VPCs that do not leak, IAM that does not over-trust, and pipelines that do not fail at 2 a.m. I am currently focused on multi-account AWS architecture, platform automation, and documenting the decisions that make systems understandable.
 
 > Every manual step is a future incident. Every undocumented decision is a future mystery. I build to eliminate both.
-
-<br clear="right" />
 
 ---
 
