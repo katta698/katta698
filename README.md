@@ -8,7 +8,13 @@
 
 <br />
 
-[Portfolio](https://jayanthkatta.com) · [Writing](https://jayanthkatta.com/blog/) · [Now](https://jayanthkatta.com/now.html) · [Résumé](https://jayanthkatta.com/resume.html) · [LinkedIn](https://www.linkedin.com/in/jayanthkatta)
+<p>
+  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio.svg" height="28" alt="Portfolio" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing.svg" height="28" alt="Writing" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now.svg" height="28" alt="Now" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume.svg" height="28" alt="Résumé" /></a>&nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin.svg" height="32" alt="LinkedIn" /></a>
+</p>
 
 </div>
 
@@ -22,7 +28,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-### `01 — RIGHT NOW`
+<img src="assets/section-01-right-now.svg" height="40" alt="01 — RIGHT NOW" />
 
 | Focus | Current work |
 |:---|:---|
@@ -32,7 +38,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-### `02 — WHAT I’M BUILDING`
+<img src="assets/section-02-building.svg" height="40" alt="02 — WHAT I’M BUILDING" />
 
 | Area | Engineering focus |
 |:---|:---|
@@ -44,7 +50,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-### `03 — FEATURED BUILD`
+<img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
 
 #### 30 Days AWS + Terraform Challenge
 
@@ -58,7 +64,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-### `04 — LATEST WRITING`
+<img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
 - [Week 6 - Building an Account Vending Machine with AWS Organizations, SCPs & Step Functions (No Control Tower)](https://jayanthkatta.com/blog/week-6-account-vending-machine-with-aws-organizations-and-scps/) — Jun 2026
@@ -72,7 +78,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-### `05 — TOOLKIT`
+<img src="assets/section-05-toolkit.svg" height="40" alt="05 — TOOLKIT" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-242B2A?style=for-the-badge&logo=amazonaws&logoColor=C4A484" alt="AWS" />
@@ -88,7 +94,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-### `06 — GITHUB ACTIVITY`
+<img src="assets/section-06-activity.svg" height="40" alt="06 — GITHUB ACTIVITY" />
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=katta698&show_icons=true&hide_border=false&bg_color=161A1A&border_color=2E3635&title_color=C4A484&icon_color=C4A484&text_color=F5F5F3" height="170" alt="Jayanth's GitHub statistics" />
@@ -109,7 +115,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-### `07 — ENGINEERING PRINCIPLES`
+<img src="assets/section-07-principles.svg" height="40" alt="07 — ENGINEERING PRINCIPLES" />
 
 ```text
 Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
@@ -121,7 +127,7 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 
 ---
 
-### `08 — LET’S CONNECT`
+<img src="assets/section-08-connect.svg" height="40" alt="08 — LET’S CONNECT" />
 
 <p>
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-242B2A?style=for-the-badge&logo=linkedin&logoColor=C4A484" alt="LinkedIn" /></a>
