@@ -60,21 +60,21 @@ A structured, hands-on series building real AWS infrastructure from the ground u
 
 Each day includes working Terraform, architectural decisions, and an honest account of what broke and why.
 
-**[Explore the code and architecture →](https://github.com/katta698/30-days-aws-terraform)**
+<a href="https://github.com/katta698/30-days-aws-terraform"><img src="assets/link-explore.svg" height="34" alt="Explore the code and architecture" /></a>
 
 ---
 
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 6 - Building an Account Vending Machine with AWS Organizations, SCPs & Step Functions (No Control Tower)](https://jayanthkatta.com/blog/week-6-account-vending-machine-with-aws-organizations-and-scps/) — Jun 2026
-- [Week 5 - Cost Anomaly Detection with AWS Cost Explorer, SNS, and Lambda](https://jayanthkatta.com/blog/week-5-cost-anomaly-detection-with-aws-cost-explorer-sns-and/) — Jun 2026
-- [Week 4 - Building a Fleet Intelligence Platform with AWS Glue, Step Functions & ServiceNow](https://jayanthkatta.com/blog/week-4-building-a-fleet-intelligence-platform-with-aws-glue-/) — Jun 2026
-- [I Built a RAG-Powered Search for My Blog — Here's Why and How](https://jayanthkatta.com/blog/i-built-a-rag-powered-search-for-my-blog-here-s-why-and-how/) — Jun 2026
-- [Week 3 - Self-Service EC2 Fleet Patching with AWS SSM](https://jayanthkatta.com/blog/week-3-self-service-ec2-fleet-patching-with-aws-ssm/) — Jun 2026
+- Week 6 - Building an Account Vending Machine with AWS Organizations, SCPs &amp; Step Functions (No Control Tower) — Jun 2026 &nbsp; <a href="https://jayanthkatta.com/blog/week-6-account-vending-machine-with-aws-organizations-and-scps/"><img src="assets/link-read.svg" height="22" alt="Read Week 6 post" /></a>
+- Week 5 - Cost Anomaly Detection with AWS Cost Explorer, SNS, and Lambda — Jun 2026 &nbsp; <a href="https://jayanthkatta.com/blog/week-5-cost-anomaly-detection-with-aws-cost-explorer-sns-and/"><img src="assets/link-read.svg" height="22" alt="Read Week 5 post" /></a>
+- Week 4 - Building a Fleet Intelligence Platform with AWS Glue, Step Functions &amp; ServiceNow — Jun 2026 &nbsp; <a href="https://jayanthkatta.com/blog/week-4-building-a-fleet-intelligence-platform-with-aws-glue-/"><img src="assets/link-read.svg" height="22" alt="Read Week 4 post" /></a>
+- I Built a RAG-Powered Search for My Blog — Here's Why and How — Jun 2026 &nbsp; <a href="https://jayanthkatta.com/blog/i-built-a-rag-powered-search-for-my-blog-here-s-why-and-how/"><img src="assets/link-read.svg" height="22" alt="Read RAG-powered search post" /></a>
+- Week 3 - Self-Service EC2 Fleet Patching with AWS SSM — Jun 2026 &nbsp; <a href="https://jayanthkatta.com/blog/week-3-self-service-ec2-fleet-patching-with-aws-ssm/"><img src="assets/link-read.svg" height="22" alt="Read Week 3 post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
-**[Read all writing →](https://jayanthkatta.com/blog/)**
+<a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
 
 ---
 
