@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/platform-engineer-bohemian.png" width="520" alt="Platform Engineer illustration in the portfolio's bohemian palette" />
+  <img src="assets/platform-engineer.png" width="520" alt="Platform Engineer illustration in the portfolio's bohemian palette" />
 </p>
 
 I build production-grade AWS infrastructure: VPCs that do not leak, IAM that does not over-trust, and pipelines that do not fail at 2 a.m. I am currently focused on multi-account AWS architecture, platform automation, and documenting the decisions that make systems understandable.
