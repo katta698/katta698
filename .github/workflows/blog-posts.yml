@@ -15,6 +15,7 @@ jobs:
         with:
           feed_list: "https://jayanthkatta.com/blog/rss.xml"
           max_post_count: 5
-          date_format: "MMM YYYY"
-          template: '- $title — $date <a href="$url"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>'
+          date_format: "mmm yyyy"
+          template: '- $title — $date <a href="$url"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>$newline'
+          tag_post_pre_newline: true
           commit_message: "Update latest blog posts in README"
