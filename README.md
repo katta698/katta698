@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Jayanth Katta â€” AWS Platform Engineer" />
+<img src="assets/profile-header.svg" width="100%" alt="Jayanth Katta — AWS Platform Engineer" />
 
 <br />
 
@@ -9,17 +9,17 @@
 <br />
 
 <p>
-  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;Â·&nbsp;
-  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;Â·&nbsp;
-  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;Â·&nbsp;
-  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="RÃ©sumÃ©" /></a>&nbsp;Â·&nbsp;
+  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="Résumé" /></a>&nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin-text.svg" height="28" alt="LinkedIn" /></a>
 </p>
 
 </div>
 
 <p align="center">
-  <img src="assets/platform-engineer.png" width="520" alt="Platform Engineer illustration in the portfolio's bohemian palette" />
+  <img src="assets/platform-engineer-bohemian.png" width="520" alt="Platform Engineer illustration in the portfolio's bohemian palette" />
 </p>
 
 I build production-grade AWS infrastructure: VPCs that do not leak, IAM that does not over-trust, and pipelines that do not fail at 2 a.m. I am currently focused on multi-account AWS architecture, platform automation, and documenting the decisions that make systems understandable.
@@ -28,7 +28,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-<img src="assets/section-01-right-now.svg" height="40" alt="01 â€” RIGHT NOW" />
+<img src="assets/section-01-right-now.svg" height="40" alt="01 — RIGHT NOW" />
 
 | Focus | Current work |
 |:---|:---|
@@ -38,7 +38,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-<img src="assets/section-02-building.svg" height="40" alt="02 â€” WHAT Iâ€™M BUILDING" />
+<img src="assets/section-02-building.svg" height="40" alt="02 — WHAT I’M BUILDING" />
 
 | Area | Engineering focus |
 |:---|:---|
@@ -50,13 +50,13 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-<img src="assets/section-03-featured.svg" height="40" alt="03 â€” FEATURED BUILD" />
+<img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
 
 #### 30 Days AWS + Terraform Challenge
 
-A structured, hands-on series building real AWS infrastructure from the ground upâ€”not toy examples.
+A structured, hands-on series building real AWS infrastructure from the ground up—not toy examples.
 
-`VPC design` â†’ `IAM provisioning` â†’ `S3 remote state` â†’ `EC2 + ALB` â†’ `RDS HA` â†’ `CloudWatch` â†’ `EKS` â†’ `GitHub Actions`
+`VPC design` → `IAM provisioning` → `S3 remote state` → `EC2 + ALB` → `RDS HA` → `CloudWatch` → `EKS` → `GitHub Actions`
 
 Each day includes working Terraform, architectural decisions, and an honest account of what broke and why.
 
@@ -64,7 +64,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-<img src="assets/section-04-writing.svg" height="40" alt="04 â€” LATEST WRITING" />
+<img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
 - EBS Savings Dashboard — Phase 1 — Jul 2026 <a href="https://jayanthkatta.com/blog/ebs-savings-dashboard-phase1/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
@@ -79,7 +79,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-<img src="assets/section-05-toolkit.svg" height="40" alt="05 â€” TOOLKIT" />
+<img src="assets/section-05-toolkit.svg" height="40" alt="05 — TOOLKIT" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-242B2A?style=for-the-badge&logo=amazonaws&logoColor=C4A484" alt="AWS" />
@@ -95,7 +95,7 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-<img src="assets/section-06-activity.svg" height="40" alt="06 â€” GITHUB ACTIVITY" />
+<img src="assets/section-06-activity.svg" height="40" alt="06 — GITHUB ACTIVITY" />
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=katta698&show_icons=true&hide_border=false&bg_color=161A1A&border_color=2E3635&title_color=C4A484&icon_color=C4A484&text_color=F5F5F3" height="170" alt="Jayanth's GitHub statistics" />
@@ -116,10 +116,10 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 
 ---
 
-<img src="assets/section-07-principles.svg" height="40" alt="07 â€” ENGINEERING PRINCIPLES" />
+<img src="assets/section-07-principles.svg" height="40" alt="07 — ENGINEERING PRINCIPLES" />
 
 ```text
-Provision  â†’  Harden  â†’  Automate  â†’  Monitor  â†’  Document  â†’  Iterate
+Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 ```
 
 > *If it is not in code, it does not exist.*<br />
@@ -128,7 +128,7 @@ Provision  â†’  Harden  â†’  Automate  â†’  Monitor  â†’  Do
 
 ---
 
-<img src="assets/section-08-connect.svg" height="40" alt="08 â€” LETâ€™S CONNECT" />
+<img src="assets/section-08-connect.svg" height="40" alt="08 — LET’S CONNECT" />
 
 <p>
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-242B2A?style=for-the-badge&logo=linkedin&logoColor=C4A484" alt="LinkedIn" /></a>
@@ -139,7 +139,6 @@ Provision  â†’  Harden  â†’  Automate  â†’  Monitor  â†’  Do
 
 <div align="center">
 
-`building resilient systems Â· documenting the journey Â· always learning`
+`building resilient systems · documenting the journey · always learning`
 
 </div>
-
