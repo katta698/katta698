@@ -1,21 +1,47 @@
 name: Update Blog Posts
 
 on:
-  workflow_dispatch:        # also runnable manually from the GitHub Actions tab
+  workflow_dispatch:
   schedule:
-    - cron: "0 7 * * MON"   # every Monday 7am UTC — after the nightly blog sync
+    - cron: "0 8 * * *"   # daily at 8am UTC
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - uses: actions/checkout@v4
 
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Update BLOG-POST-LIST from RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://jayanthkatta.com/blog/rss.xml"
           max_post_count: 5
           date_format: "mmm yyyy"
           template: '- $title — $date <a href="$url"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>$newline'
           tag_post_pre_newline: true
-          commit_message: "Update latest blog posts in README"
+          commit_message: "chore: update latest blog posts"
+
+      - name: Update Building row from latest weekly post
+        run: |
+          # Fetch RSS and find the latest "Week N" post title
+          RSS=$(curl -s https://jayanthkatta.com/blog/rss.xml)
+          LATEST_WEEK=$(echo "$RSS" | grep -oP '<title><!\[CDATA\[Week \d+[^\]]*\]\]></title>' | head -1 | grep -oP 'Week \d+[^\]]*(?=\]\])')
+
+          if [ -z "$LATEST_WEEK" ]; then
+            echo "No weekly post found in RSS — skipping Building row update"
+            exit 0
+          fi
+
+          echo "Latest weekly post: $LATEST_WEEK"
+
+          # Update the Building row in README.md
+          sed -i "s/| \*\*Building\*\* | .* |/| **Building** | ${LATEST_WEEK} — 52-week AWS Platform Engineering Lab |/" README.md
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update current build to ${LATEST_WEEK}"
+          git push
