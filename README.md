@@ -63,8 +63,8 @@ Each day includes working Terraform, architectural decisions, and an honest acco
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- EBS Savings Dashboard — Phase 1 — Jul 2026 <a href="https://jayanthkatta.com/blog/ebs-savings-dashboard-phase1/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 8 - S3 Intelligent Storage Platform: Tiering, Lifecycle, and Cost Automation — Jun 2026 <a href="https://jayanthkatta.com/blog/week-8-s3-intelligent-storage-platform/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- EBS Savings Dashboard — Phase 1: Turning CUR 2.0 Billing Data Into a Live Cost Intelligence Platform — Jul 2026 <a href="https://jayanthkatta.com/blog/ebs-savings-dashboard-phase1/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 8 - S3 Intelligent Storage Platform: Tiering, Lifecycle, and Cost Automation — Jul 2026 <a href="https://jayanthkatta.com/blog/week-8-s3-intelligent-storage-platform/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 7 - IAM Identity Center SSO: Multi-Account Permission Sets — Jun 2026 <a href="https://jayanthkatta.com/blog/week-7-iam-identity-center-sso-multi-account-permission-sets/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 6 - Building an Account Vending Machine with AWS Organizations, SCPs &amp; Step Functions &lpar;No Control Tower&rpar; — Jun 2026 <a href="https://jayanthkatta.com/blog/week-6-account-vending-machine-with-aws-organizations-and-scps/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 5 - Cost Anomaly Detection with AWS Cost Explorer, SNS, and Lambda — Jun 2026 <a href="https://jayanthkatta.com/blog/week-5-cost-anomaly-detection-with-aws-cost-explorer-sns-and/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
