@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header-wave.jpg" width="100%" alt="Jayanth Katta — AWS Platform Engineer" />
+<img src="assets/header-wave.gif" width="100%" alt="Aerial drone shot of ocean waves" />
+
+<br />
+
+*one step at a time*
 
 <br />
 
