@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header-wave.gif" width="100%" alt="Jayanth Katta — AWS Platform Engineer" />
+<img src="assets/profile-header.svg" width="100%" alt="Jayanth Katta — AWS Platform Engineer" />
 
 <br />
 
