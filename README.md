@@ -48,15 +48,15 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 <img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
 
-#### 30 Days AWS + Terraform Challenge
+#### 52-Week AWS Platform Engineering Lab
 
-A structured, hands-on series building real AWS infrastructure from the ground up—not toy examples.
+One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
 
-`VPC design` → `IAM provisioning` → `S3 remote state` → `EC2 + ALB` → `RDS HA` → `CloudWatch` → `EKS` → `GitHub Actions`
+`EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
 
-Each day includes working Terraform, architectural decisions, and an honest account of what broke and why.
+8 weeks complete. Every week includes working Terraform, an architecture diagram, and an honest writeup of what broke and why.
 
-<a href="https://github.com/katta698/30-days-aws-terraform"><img src="assets/link-explore.svg" height="34" alt="Explore the code and architecture" /></a>
+<a href="https://github.com/katta698/AWS-Platform-Engineering-Lab"><img src="assets/link-explore.svg" height="34" alt="Explore the lab" /></a>
 
 ---
 
