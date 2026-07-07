@@ -26,22 +26,21 @@ jobs:
 
       - name: Update Building row from latest weekly post
         run: |
-          # Fetch RSS and find the latest "Week N" post title
           RSS=$(curl -s https://jayanthkatta.com/blog/rss.xml)
           LATEST_WEEK=$(echo "$RSS" | grep -oP '<title><!\[CDATA\[Week \d+[^\]]*\]\]></title>' | head -1 | grep -oP 'Week \d+[^\]]*(?=\]\])')
 
           if [ -z "$LATEST_WEEK" ]; then
-            echo "No weekly post found in RSS — skipping Building row update"
+            echo "No weekly post found in RSS — skipping"
             exit 0
           fi
 
           echo "Latest weekly post: $LATEST_WEEK"
 
-          # Update the Building row in README.md
-          sed -i "s/| \*\*Building\*\* | .* |/| **Building** | ${LATEST_WEEK} — 52-week AWS Platform Engineering Lab |/" README.md
+          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LATEST_WEEK} — 52-week AWS Platform Engineering Lab |/" README.md
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main
           git add README.md
           git diff --cached --quiet || git commit -m "chore: update current build to ${LATEST_WEEK}"
           git push
