@@ -26,11 +26,10 @@ jobs:
 
       - name: Update Building row from latest weekly post
         run: |
-          set -x
           RSS=$(curl -s https://jayanthkatta.com/blog/rss.xml)
-          echo "RSS length: ${#RSS}"
+          echo "RSS fetched, length: ${#RSS}"
 
-          LATEST_WEEK=$(echo "$RSS" | grep -oP '<title><!\[CDATA\[Week \d+[^\]]*\]\]></title>' | head -1 | grep -oP 'Week \d+[^\]]*(?=\]\])')
+          LATEST_WEEK=$(echo "$RSS" | grep -oP '<title>Week \d+[^<]*</title>' | head -1 | sed 's/<[^>]*>//g')
           echo "LATEST_WEEK: '$LATEST_WEEK'"
 
           if [ -z "$LATEST_WEEK" ]; then
@@ -44,10 +43,9 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
 
-          LABEL="${LATEST_WEEK} - 52-week AWS Platform Engineering Lab"
-          echo "Replacing Building row with: $LABEL"
-          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LABEL} |/" README.md
+          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LATEST_WEEK} - 52-week AWS Platform Engineering Lab |/" README.md
 
+          echo "Building row is now:"
           grep "Building" README.md
 
           git add README.md
