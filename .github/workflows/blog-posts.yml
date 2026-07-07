@@ -36,11 +36,15 @@ jobs:
 
           echo "Latest weekly post: $LATEST_WEEK"
 
-          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LATEST_WEEK} — 52-week AWS Platform Engineering Lab |/" README.md
-
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
+
+          git fetch origin main
+          git reset --hard origin/main
+
+          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LATEST_WEEK} — 52-week AWS Platform Engineering Lab |/" README.md
+
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update current build to ${LATEST_WEEK}"
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update current build to ${LATEST_WEEK}"
           git push
