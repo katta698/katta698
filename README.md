@@ -32,7 +32,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 8 complete — S3 Intelligent Storage Platform in my 52-week AWS Platform Engineering Lab |
+| **Building** | Week 8 - S3 Intelligent Storage Platform: Tiering, Lifecycle, and Cost Automation - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
