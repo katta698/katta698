@@ -26,15 +26,17 @@ jobs:
 
       - name: Update Building row from latest weekly post
         run: |
+          set -x
           RSS=$(curl -s https://jayanthkatta.com/blog/rss.xml)
+          echo "RSS length: ${#RSS}"
+
           LATEST_WEEK=$(echo "$RSS" | grep -oP '<title><!\[CDATA\[Week \d+[^\]]*\]\]></title>' | head -1 | grep -oP 'Week \d+[^\]]*(?=\]\])')
+          echo "LATEST_WEEK: '$LATEST_WEEK'"
 
           if [ -z "$LATEST_WEEK" ]; then
             echo "No weekly post found in RSS — skipping"
             exit 0
           fi
-
-          echo "Latest weekly post: $LATEST_WEEK"
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -42,7 +44,11 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
 
-          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LATEST_WEEK} — 52-week AWS Platform Engineering Lab |/" README.md
+          LABEL="${LATEST_WEEK} - 52-week AWS Platform Engineering Lab"
+          echo "Replacing Building row with: $LABEL"
+          sed -i "s/| \*\*Building\*\* |.*|/| **Building** | ${LABEL} |/" README.md
+
+          grep "Building" README.md
 
           git add README.md
           git diff --cached --quiet && echo "No changes to commit" && exit 0
