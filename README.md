@@ -16,6 +16,10 @@
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin-text.svg" height="28" alt="LinkedIn" /></a>
 </p>
 
+<p align="center">
+  <img src="assets/platform-engineer.png" width="520" alt="Platform Engineer illustration" />
+</p>
+
 </div>
 
 I build production-grade AWS infrastructure: VPCs that do not leak, IAM that does not over-trust, and pipelines that do not fail at 2 a.m. I am currently focused on multi-account AWS architecture, platform automation, and documenting the decisions that make systems understandable.
