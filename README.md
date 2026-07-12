@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" width="100%" alt="Jayanth Katta — AWS Platform Engineer" />
-
-<br />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=C4A484&center=true&vCenter=true&width=760&lines=AWS+Platform+Engineer;I+automate+the+manual.;I+document+the+tribal.;Building+resilient+systems%2C+one+commit+at+a+time." alt="Animated introduction" />
 
 <br />
