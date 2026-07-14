@@ -89,7 +89,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
   <img src="https://img.shields.io/badge/Oracle-242B2A?style=for-the-badge&logo=oracle&logoColor=C4A484" alt="Oracle" />
 </p>
 
----
+----
 
 <img src="assets/section-06-activity.svg" height="40" alt="06 — GITHUB ACTIVITY" />
 
