@@ -28,7 +28,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 9 - ECS Fargate Self-Service: Ticket-to-Container in Minutes - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 10 - Centralised Logging Platform: One Query Across Every Account - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
