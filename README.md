@@ -63,11 +63,11 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 11 - Security Hub + GuardDuty: Findings That Fix Themselves — Jul 2026 <a href="https://jayanthkatta.com/blog/week-11-security-hub-guardduty/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 9 - ECS Fargate Self-Service: Ticket-to-Container in Minutes — Jul 2026 <a href="https://jayanthkatta.com/blog/week-9-ecs-fargate-self-service/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - EBS Savings Dashboard — Phase 1: Turning CUR 2.0 Billing Data Into a Live Cost Intelligence Platform — Jul 2026 <a href="https://jayanthkatta.com/blog/ebs-savings-dashboard-phase1/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 8 - S3 Intelligent Storage Platform: Tiering, Lifecycle, and Cost Automation — Jul 2026 <a href="https://jayanthkatta.com/blog/week-8-s3-intelligent-storage-platform/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 7 - IAM Identity Center SSO: Multi-Account Permission Sets — Jun 2026 <a href="https://jayanthkatta.com/blog/week-7-iam-identity-center-sso-multi-account-permission-sets/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 
 <!-- BLOG-POST-LIST:END -->
 
