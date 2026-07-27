@@ -12,15 +12,62 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update BLOG-POST-LIST from RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://jayanthkatta.com/blog/rss.xml"
-          max_post_count: 5
-          date_format: "mmm yyyy"
-          template: '- $title — $date <a href="$url"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>$newline'
-          tag_post_pre_newline: true
-          commit_message: "chore: update latest blog posts"
+      - name: Update BLOG-POST-LIST from posts.json
+        run: |
+          POSTS=$(curl -sf https://jayanthkatta.com/blog/posts.json)
+          echo "Fetched posts.json"
+
+          # Build the markdown list from first 5 posts
+          LIST=""
+          for i in 0 1 2 3 4; do
+            TITLE=$(echo "$POSTS" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d[$i]['title'])" 2>/dev/null || echo "")
+            URL=$(echo "$POSTS" | python3 -c "import sys,json; d=json.load(sys.stdin); print('https://jayanthkatta.com'+d[$i]['url'])" 2>/dev/null || echo "")
+            DATE=$(echo "$POSTS" | python3 -c "import sys,json; d=json.load(sys.stdin); print(d[$i]['date'])" 2>/dev/null || echo "")
+            [ -z "$TITLE" ] && break
+            LIST="${LIST}- ${TITLE} — ${DATE} <a href=\"${URL}\"><img src=\"assets/link-read.svg\" height=\"22\" alt=\"Read post\" /></a>\n"
+          done
+
+          echo "Generated list:"
+          echo -e "$LIST"
+
+          # Replace between markers in README.md
+          python3 - <<'PYEOF'
+          import re, subprocess, os
+
+          result = subprocess.run(['curl', '-sf', 'https://jayanthkatta.com/blog/posts.json'],
+                                  capture_output=True, text=True)
+          import json
+          posts = json.loads(result.stdout)[:5]
+
+          lines = []
+          for p in posts:
+              url = 'https://jayanthkatta.com' + p['url']
+              lines.append(f"- {p['title']} — {p['date']} <a href=\"{url}\"><img src=\"assets/link-read.svg\" height=\"22\" alt=\"Read post\" /></a>")
+
+          new_block = '\n'.join(lines)
+
+          readme = open('README.md').read()
+          updated = re.sub(
+              r'(<!-- BLOG-POST-LIST:START -->)(.*?)(<!-- BLOG-POST-LIST:END -->)',
+              f'\1\n{new_block}\n\3',
+              readme, flags=re.DOTALL
+          )
+
+          if updated == readme:
+              print("README unchanged")
+          else:
+              open('README.md', 'w').write(updated)
+              print("README updated")
+          PYEOF
+
+      - name: Commit README changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update latest blog posts"
+          git push
 
       - name: Update Building row from latest weekly post
         run: |
@@ -34,9 +81,6 @@ jobs:
             echo "No weekly post found in RSS — skipping"
             exit 0
           fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git fetch origin main
           git reset --hard origin/main
