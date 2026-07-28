@@ -52,7 +52,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
 
-`EC2 Self-Service` â†’ `Aurora Serverless` â†’ `SSM Fleet Patching` â†’ `Glue Intelligence` â†’ `Cost Anomaly Detection` â†’ `Account Vending` â†’ `IAM Identity Center` â†’ `S3 Intelligent Storage` â†’ `...continuing`
+`EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
 
 8 weeks complete. Every week includes working Terraform, an architecture diagram, and an honest writeup of what broke and why.
 
@@ -117,7 +117,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <img src="assets/section-07-principles.svg" height="40" alt="07 — ENGINEERING PRINCIPLES" />
 
 ```text
-Provision  â†’  Harden  â†’  Automate  â†’  Monitor  â†’  Document  â†’  Iterate
+Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 ```
 
 > *If it is not in code, it does not exist.*<br />
