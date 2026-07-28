@@ -34,7 +34,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-<img src="assets/section-02-building.svg" height="40" alt="02 — WHAT Iâ€™M BUILDING" />
+<img src="assets/section-02-building.svg" height="40" alt="02 — WHAT I’M BUILDING" />
 
 | Area | Engineering focus |
 |:---|:---|
@@ -126,7 +126,7 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 
 ---
 
-<img src="assets/section-08-connect.svg" height="40" alt="08 — LETâ€™S CONNECT" />
+<img src="assets/section-08-connect.svg" height="40" alt="08 — LET’S CONNECT" />
 
 <p>
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-242B2A?style=for-the-badge&logo=linkedin&logoColor=C4A484" alt="LinkedIn" /></a>
