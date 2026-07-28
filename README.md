@@ -5,10 +5,10 @@
 <br />
 
 <p>
-  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;·&nbsp;
-  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;·&nbsp;
-  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;·&nbsp;
-  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="Résumé" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;Â·&nbsp;
+  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;Â·&nbsp;
+  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;Â·&nbsp;
+  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="RÃ©sumÃ©" /></a>&nbsp;Â·&nbsp;
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin-text.svg" height="28" alt="LinkedIn" /></a>
 </p>
 
@@ -34,7 +34,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-<img src="assets/section-02-building.svg" height="40" alt="02 — WHAT I’M BUILDING" />
+<img src="assets/section-02-building.svg" height="40" alt="02 — WHAT Iâ€™M BUILDING" />
 
 | Area | Engineering focus |
 |:---|:---|
@@ -52,7 +52,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
 
-`EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
+`EC2 Self-Service` â†’ `Aurora Serverless` â†’ `SSM Fleet Patching` â†’ `Glue Intelligence` â†’ `Cost Anomaly Detection` â†’ `Account Vending` â†’ `IAM Identity Center` â†’ `S3 Intelligent Storage` â†’ `...continuing`
 
 8 weeks complete. Every week includes working Terraform, an architecture diagram, and an honest writeup of what broke and why.
 
@@ -64,7 +64,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 
 
 <!-- BLOG-POST-LIST:START -->
-- AWS Architecture Series #4 � EventBridge: The Enterprise Event Bus Enterprises Get Wrong � Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-eventbridge-event-driven/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #4 — EventBridge: The Enterprise Event Bus Enterprises Get Wrong — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-eventbridge-event-driven/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #3 — ECS vs EKS: The Enterprise Decision Framework Beyond Buzzwords — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ecs-vs-eks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #2 — IAM Identity Center: How Enterprises Replace 1,000 IAM Users with One Identity — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-iam-identity-center/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #1 — Transit Gateway Hub-and-Spoke: The Networking Pattern That Scales to 100+ Accounts — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-transit-gateway-hub-spoke/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
@@ -117,7 +117,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <img src="assets/section-07-principles.svg" height="40" alt="07 — ENGINEERING PRINCIPLES" />
 
 ```text
-Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
+Provision  â†’  Harden  â†’  Automate  â†’  Monitor  â†’  Document  â†’  Iterate
 ```
 
 > *If it is not in code, it does not exist.*<br />
@@ -126,7 +126,7 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 
 ---
 
-<img src="assets/section-08-connect.svg" height="40" alt="08 — LET’S CONNECT" />
+<img src="assets/section-08-connect.svg" height="40" alt="08 — LETâ€™S CONNECT" />
 
 <p>
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-242B2A?style=for-the-badge&logo=linkedin&logoColor=C4A484" alt="LinkedIn" /></a>
@@ -137,6 +137,6 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 
 <div align="center">
 
-`building resilient systems · documenting the journey · always learning`
+`building resilient systems Â· documenting the journey Â· always learning`
 
 </div>
