@@ -5,10 +5,10 @@
 <br />
 
 <p>
-  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;Â·&nbsp;
-  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;Â·&nbsp;
-  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;Â·&nbsp;
-  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="RÃ©sumÃ©" /></a>&nbsp;Â·&nbsp;
+  <a href="https://jayanthkatta.com"><img src="assets/nav-portfolio-text.svg" height="28" alt="Portfolio" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/blog/"><img src="assets/nav-writing-text.svg" height="28" alt="Writing" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/now.html"><img src="assets/nav-now-text.svg" height="28" alt="Now" /></a>&nbsp;·&nbsp;
+  <a href="https://jayanthkatta.com/resume.html"><img src="assets/nav-resume-text.svg" height="28" alt="Résumé" /></a>&nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="assets/nav-linkedin-text.svg" height="28" alt="LinkedIn" /></a>
 </p>
 
@@ -137,6 +137,6 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 
 <div align="center">
 
-`building resilient systems Â· documenting the journey Â· always learning`
+`building resilient systems · documenting the journey · always learning`
 
 </div>
