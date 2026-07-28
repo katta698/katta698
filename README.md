@@ -16,6 +16,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 > Every manual step is a future incident. Every undocumented decision is a future mystery. I build to eliminate both.
 ---
 <img src="assets/section-01-right-now.svg" height="40" alt="01 — RIGHT NOW" />
+
 | Focus | Current work |
 |:---|:---|
 | **Building** | Week 11 - Security Hub + GuardDuty: Findings That Fix Themselves - 52-week AWS Platform Engineering Lab |
@@ -23,6 +24,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 | **Pursuing** | AWS Solutions Architect Professional |
 ---
 <img src="assets/section-02-building.svg" height="40" alt="02 — WHAT I’M BUILDING" />
+
 | Area | Engineering focus |
 |:---|:---|
 | **Multi-account AWS** | Organizations, SCPs, Transit Gateway, and centralized logging |
@@ -32,6 +34,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 | **Database modernization** | RDS migrations, HA patterns, snapshots, and cross-region replication |
 ---
 <img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
+
 #### 52-Week AWS Platform Engineering Lab
 One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
 `EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
@@ -52,6 +55,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
 ---
 <img src="assets/section-05-toolkit.svg" height="40" alt="05 — TOOLKIT" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-242B2A?style=for-the-badge&logo=amazonaws&logoColor=C4A484" alt="AWS" />
   <img src="https://img.shields.io/badge/Terraform-242B2A?style=for-the-badge&logo=terraform&logoColor=C4A484" alt="Terraform" />
@@ -65,6 +69,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 </p>
 ----
 <img src="assets/section-06-activity.svg" height="40" alt="06 — GITHUB ACTIVITY" />
+
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=katta698&show_icons=true&hide_border=false&bg_color=161A1A&border_color=2E3635&title_color=C4A484&icon_color=C4A484&text_color=F5F5F3" height="170" alt="Jayanth's GitHub statistics" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katta698&layout=compact&hide_border=false&bg_color=161A1A&border_color=2E3635&title_color=C4A484&text_color=F5F5F3" height="170" alt="Most used languages" />
@@ -81,6 +86,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 </p>
 ---
 <img src="assets/section-07-principles.svg" height="40" alt="07 — ENGINEERING PRINCIPLES" />
+
 ```text
 Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 ```
@@ -89,6 +95,7 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 > *If it is not documented, only one person knows it.*
 ---
 <img src="assets/section-08-connect.svg" height="40" alt="08 — LET’S CONNECT" />
+
 <p>
   <a href="https://www.linkedin.com/in/jayanthkatta"><img src="https://img.shields.io/badge/LinkedIn-242B2A?style=for-the-badge&logo=linkedin&logoColor=C4A484" alt="LinkedIn" /></a>
   <a href="https://jayanthkatta.com/blog/"><img src="https://img.shields.io/badge/Writing-242B2A?style=for-the-badge&logo=rss&logoColor=C4A484" alt="Writing" /></a>
