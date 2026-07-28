@@ -12,9 +12,13 @@
   <img src="assets/platform-engineer.png" width="520" alt="Platform Engineer illustration" />
 </p>
 </div>
+
 I build production-grade AWS infrastructure: VPCs that do not leak, IAM that does not over-trust, and pipelines that do not fail at 2 a.m. I am currently focused on multi-account AWS architecture, platform automation, and documenting the decisions that make systems understandable.
+
 > Every manual step is a future incident. Every undocumented decision is a future mystery. I build to eliminate both.
+
 ---
+
 <img src="assets/section-01-right-now.svg" height="40" alt="01 — RIGHT NOW" />
 
 | Focus | Current work |
@@ -22,7 +26,9 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 | **Building** | Week 11 - Security Hub + GuardDuty: Findings That Fix Themselves - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
+
 ---
+
 <img src="assets/section-02-building.svg" height="40" alt="02 — WHAT I’M BUILDING" />
 
 | Area | Engineering focus |
@@ -32,7 +38,9 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 | **GitOps pipelines** | GitHub Actions plan/apply workflows with approval gates |
 | **Container platforms** | EKS provisioning, node groups, and Helm-based workloads |
 | **Database modernization** | RDS migrations, HA patterns, snapshots, and cross-region replication |
+
 ---
+
 <img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
 
 #### 52-Week AWS Platform Engineering Lab
@@ -40,8 +48,11 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
 `EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
 8 weeks complete. Every week includes working Terraform, an architecture diagram, and an honest writeup of what broke and why.
+
 <a href="https://github.com/katta698/AWS-Platform-Engineering-Lab"><img src="assets/link-explore.svg" height="34" alt="Explore the lab" /></a>
+
 ---
+
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
@@ -53,8 +64,11 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <!-- BLOG-POST-LIST:END -->
 
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
+
 ---
+
 <img src="assets/section-05-toolkit.svg" height="40" alt="05 — TOOLKIT" />
 
 <p align="center">
@@ -105,4 +119,4 @@ Provision  →  Harden  →  Automate  →  Monitor  →  Document  →  Iterate
 </p>
 <div align="center">
 `building resilient systems · documenting the journey · always learning`
-</div>
+</div>
