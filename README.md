@@ -39,6 +39,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <a href="https://github.com/katta698/AWS-Platform-Engineering-Lab"><img src="assets/link-explore.svg" height="34" alt="Explore the lab" /></a>
 ---
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
+
 <!-- BLOG-POST-LIST:START -->
 - AWS Architecture Series #4 — EventBridge: The Enterprise Event Bus Enterprises Get Wrong — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-eventbridge-event-driven/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #3 — ECS vs EKS: The Enterprise Decision Framework Beyond Buzzwords — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ecs-vs-eks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
@@ -46,6 +47,7 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 - AWS Architecture Series #1 — Transit Gateway Hub-and-Spoke: The Networking Pattern That Scales to 100+ Accounts — Jul 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-transit-gateway-hub-spoke/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 11 - Security Hub + GuardDuty: Findings That Fix Themselves — Jul 2026 <a href="https://jayanthkatta.com/blog/week-11-security-hub-guardduty/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
+
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
 ---
