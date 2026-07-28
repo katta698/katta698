@@ -47,9 +47,10 @@ jobs:
           new_block = '\n'.join(lines)
 
           readme = open('README.md').read()
+          replacement = r'\1' + '\n' + new_block + '\n' + r'\3'
           updated = re.sub(
               r'(<!-- BLOG-POST-LIST:START -->)(.*?)(<!-- BLOG-POST-LIST:END -->)',
-              f'\1\n{new_block}\n\3',
+              replacement,
               readme, flags=re.DOTALL
           )
 
