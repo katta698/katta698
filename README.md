@@ -36,6 +36,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 <img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
 
 #### 52-Week AWS Platform Engineering Lab
+
 One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
 `EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
 8 weeks complete. Every week includes working Terraform, an architecture diagram, and an honest writeup of what broke and why.
