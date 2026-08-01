@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 11 - Security Hub + GuardDuty: Findings That Fix Themselves - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 12 - AWS Config Compliance Automation: The Drift Security Hub Never Sees - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
