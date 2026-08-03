@@ -56,11 +56,11 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #1 - Policy-Based Routing on AWS Transit Gateway — Aug 3, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-transit-gateway-policy-based-routing/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #10 — Graviton + Spot: Cutting Compute Cost Without Betting the Fleet — Aug 3, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-graviton-spot-mixed-instances/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #9 — Control Tower + AFT: The Multi-Account Foundation Enterprises Actually Ship — Aug 2, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-control-tower-aft/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 12 - AWS Config Compliance Automation: The Drift Security Hub Never Sees — Aug 1, 2026 <a href="https://jayanthkatta.com/blog/week-12-config-compliance-automation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #8 — Route 53 ARC: Multi-Region DR That Actually Holds Up Under Pressure — Aug 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-route53-arc-multi-region-dr/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #7 — CUR 2.0 + Athena: Self-Service Cost Intelligence That Actually Works — Jul 31, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cur-athena-cost-intelligence/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
