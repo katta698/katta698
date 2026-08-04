@@ -56,11 +56,11 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #2 - Lambda Provisioned Mode for SQS Reaches 10,000 Event Pollers — Aug 4, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-sqs-provisioned-mode-pollers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #11 — SQS vs SNS vs EventBridge: The Decision Tree Enterprises Get Wrong — Aug 4, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-sqs-sns-eventbridge/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #1 - Policy-Based Routing on AWS Transit Gateway — Aug 3, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-transit-gateway-policy-based-routing/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #10 — Graviton + Spot: Cutting Compute Cost Without Betting the Fleet — Aug 3, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-graviton-spot-mixed-instances/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #9 — Control Tower + AFT: The Multi-Account Foundation Enterprises Actually Ship — Aug 2, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-control-tower-aft/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 12 - AWS Config Compliance Automation: The Drift Security Hub Never Sees — Aug 1, 2026 <a href="https://jayanthkatta.com/blog/week-12-config-compliance-automation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
