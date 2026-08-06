@@ -3,6 +3,25 @@ name: Update Blog Posts
 on:
   workflow_dispatch:
 
+  # Safety net. The blog repo dispatches this workflow after each publish, but
+  # that is a single cross-repo trigger with no retry: if it fails, the README
+  # stays stale until someone notices by eye. That happened on 6 Aug 2026, when
+  # GitHub's action-download service returned 503/500 and the run died before
+  # reaching any of the steps below.
+  #
+  # A scheduled run repairs it without anyone being involved. This workflow
+  # reads live data (posts.json and the RSS feed) rather than anything passed
+  # in by the trigger, so a scheduled run sees whatever is currently published.
+  # It is also idempotent — the steps below exit without committing when
+  # nothing has changed — so a run that finds the README already correct is a
+  # no-op.
+  #
+  # Twice daily keeps the worst-case staleness to about 12 hours. Note that
+  # GitHub delays or drops scheduled runs under load, so treat this as
+  # eventual repair, not a guarantee.
+  schedule:
+    - cron: '0 6,18 * * *'
+
 jobs:
   update:
     runs-on: ubuntu-latest
