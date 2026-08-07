@@ -41,13 +41,17 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 ---
 
-<img src="assets/section-03-featured.svg" height="40" alt="03 — FEATURED BUILD" />
+<img src="assets/section-03-the-work.svg" height="40" alt="03 — THE WORK" />
 
-#### 52-Week AWS Platform Engineering Lab
+Three ongoing series. Counts below are generated from the blog, not typed by hand.
 
-One production-grade AWS pattern every week for 52 weeks. Real infrastructure, real bugs, real fixes — no tutorials, no sandboxes.
-`EC2 Self-Service` → `Aurora Serverless` → `SSM Fleet Patching` → `Glue Intelligence` → `Cost Anomaly Detection` → `Account Vending` → `IAM Identity Center` → `S3 Intelligent Storage` → `...continuing`
-8 weeks complete. Every week includes working Terraform, an architecture diagram, and an honest writeup of what broke and why.
+<!-- SERIES-LIST:START -->
+| Series | What it is | Published |
+|:---|:---|:---|
+| **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 14 posts |
+| **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 12 of 52 |
+| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 5 posts |
+<!-- SERIES-LIST:END -->
 
 <a href="https://github.com/katta698/AWS-Platform-Engineering-Lab"><img src="assets/link-explore.svg" height="34" alt="Explore the lab" /></a>
 
@@ -62,8 +66,6 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 - AWS Architecture Series #13 — CloudFront, Origin Shield and WAF: When the CDN Is Just an Expensive Proxy — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudfront-origin-shield-waf/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #3 - RFC 9151 CNSA 1.0 TLS Policies on ALB and NLB — Aug 5, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-elb-rfc9151-cnsa-tls-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
-
-- Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
 

@@ -114,3 +114,18 @@ jobs:
           git diff --cached --quiet && echo "No changes to commit" && exit 0
           git commit -m "chore: update current build to ${LATEST_WEEK}"
           git push
+
+      # Placed last on purpose. The "Update Building row" step above does a
+      # `git reset --hard origin/main`, which would discard anything this step
+      # had written but not yet committed.
+      - name: Update series counts from stats.json
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+          python3 scripts/update_series.py https://jayanthkatta.com/blog/stats.json
+
+          git add README.md
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "chore: update series counts"
+          git push
