@@ -57,10 +57,10 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 
 <!-- BLOG-POST-LIST:START -->
 - AWS Daily Intelligence #5 - ECS Fractional GPU Scheduling on G6f Instances — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ecs-fractional-gpu-scheduling/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #14 — S3 Storage Classes: Why “Just Move It to Glacier” Made the Bill Go Up — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-s3-storage-classes-lifecycle/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #4 - DynamoDB Adds Real-Time Vector Search — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-dynamodb-vector-search/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #13 — CloudFront, Origin Shield and WAF: When the CDN Is Just an Expensive Proxy — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudfront-origin-shield-waf/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #3 - RFC 9151 CNSA 1.0 TLS Policies on ALB and NLB — Aug 5, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-elb-rfc9151-cnsa-tls-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #12 — CloudWatch vs OpenTelemetry: What Multi-Account Observability Actually Costs — Aug 5, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudwatch-vs-opentelemetry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
