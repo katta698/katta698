@@ -56,11 +56,11 @@ One production-grade AWS pattern every week for 52 weeks. Real infrastructure, r
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #4 - DynamoDB Adds Real-Time Vector Search — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-dynamodb-vector-search/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #13 — CloudFront, Origin Shield and WAF: When the CDN Is Just an Expensive Proxy — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudfront-origin-shield-waf/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #3 - RFC 9151 CNSA 1.0 TLS Policies on ALB and NLB — Aug 5, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-elb-rfc9151-cnsa-tls-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #12 — CloudWatch vs OpenTelemetry: What Multi-Account Observability Actually Costs — Aug 5, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudwatch-vs-opentelemetry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #2 - Lambda Provisioned Mode for SQS Reaches 10,000 Event Pollers — Aug 4, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-sqs-provisioned-mode-pollers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #11 — SQS vs SNS vs EventBridge: The Decision Tree Enterprises Get Wrong — Aug 4, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-sqs-sns-eventbridge/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 - Week 10 - Centralised Logging Platform: One Query Across Every Account — Jul 2026 <a href="https://jayanthkatta.com/blog/week-10-centralized-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
