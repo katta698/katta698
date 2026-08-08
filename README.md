@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 12 - AWS Config Compliance Automation: The Drift Security Hub Never Sees - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 13 - AWS WAF + Shield Standard: The DDoS Protection You Already Have, and the Layer It Cannot See - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
