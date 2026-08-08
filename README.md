@@ -64,7 +64,7 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 - AWS Weekly Intelligence #1 - 3-7 August 2026 — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-3-7-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #15 — VPC Endpoints vs NAT Gateway: Paying Egress on Traffic That Never Left AWS — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-vpc-endpoints-nat-gateway/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #5 - ECS Fractional GPU Scheduling on G6f Instances — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ecs-fractional-gpu-scheduling/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #14 — S3 Storage Classes: Why “Just Move It to Glacier” Made the Bill Go Up — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-s3-storage-classes-lifecycle/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 13 - AWS WAF + Shield Standard: The DDoS Protection You Already Have, and the Layer It Cannot See — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/week-13-waf-shield-protection/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
