@@ -60,11 +60,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Architecture Series #15 — VPC Endpoints vs NAT Gateway: Paying Egress on Traffic That Never Left AWS — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-vpc-endpoints-nat-gateway/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #5 - ECS Fractional GPU Scheduling on G6f Instances — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ecs-fractional-gpu-scheduling/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #14 — S3 Storage Classes: Why “Just Move It to Glacier” Made the Bill Go Up — Aug 7, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-s3-storage-classes-lifecycle/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #4 - DynamoDB Adds Real-Time Vector Search — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-dynamodb-vector-search/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #13 — CloudFront, Origin Shield and WAF: When the CDN Is Just an Expensive Proxy — Aug 6, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudfront-origin-shield-waf/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #3 - RFC 9151 CNSA 1.0 TLS Policies on ALB and NLB — Aug 5, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-elb-rfc9151-cnsa-tls-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
