@@ -88,8 +88,8 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-06-activity.svg" height="40" alt="06 — GITHUB ACTIVITY" />
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=katta698&show_icons=true&hide_border=false&bg_color=161A1A&border_color=2E3635&title_color=C4A484&icon_color=C4A484&text_color=F5F5F3" height="170" alt="Jayanth's GitHub statistics" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=katta698&layout=compact&hide_border=false&bg_color=161A1A&border_color=2E3635&title_color=C4A484&text_color=F5F5F3" height="170" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=katta698&theme=github_dark" height="200" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=katta698&theme=github_dark" height="200" alt="Top languages by repository" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=katta698&hide_border=false&background=161A1A&border=2E3635&stroke=2E3635&ring=C4A484&fire=C4A484&currStreakNum=F5F5F3&sideNums=F5F5F3&currStreakLabel=C4A484&sideLabels=A3ABA9&dates=A3ABA9" height="170" alt="GitHub contribution streak" />
