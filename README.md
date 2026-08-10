@@ -60,11 +60,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Architecture Series #17 — Step Functions Standard vs Express: The Type You Cannot Change Later — Aug 10, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-step-functions-standard-express/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #16 — Secrets Manager vs Parameter Store: The 8× Price Gap and the One-Way Door — Aug 9, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-secrets-manager-parameter-store/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 13 - AWS WAF + Shield Standard: The DDoS Protection You Already Have, and the Layer It Cannot See — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/week-13-waf-shield-protection/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #6 - IPAM Adds BGP Route Protection and Delegated RPKI — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ipam-bgp-route-protection/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #1 - 3-7 August 2026 — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-3-7-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #15 — VPC Endpoints vs NAT Gateway: Paying Egress on Traffic That Never Left AWS — Aug 8, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-vpc-endpoints-nat-gateway/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
