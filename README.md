@@ -60,11 +60,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #8 - Reading S3 Backups Without a Restore — Aug 12, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aws-backup-s3-access-points/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #19 — Lambda Concurrency: The Thousand Every Function Is Quietly Sharing — Aug 12, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-lambda-concurrency/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #7 - EC2 Application Status Checks — Aug 11, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ec2-application-status-checks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #18 — DynamoDB On-Demand vs Provisioned: The Utilisation Number That Decides It — Aug 11, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-dynamodb-capacity-modes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #17 — Step Functions Standard vs Express: The Type You Cannot Change Later — Aug 10, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-step-functions-standard-express/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #16 — Secrets Manager vs Parameter Store: The 8× Price Gap and the One-Way Door — Aug 9, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-secrets-manager-parameter-store/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
