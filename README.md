@@ -60,11 +60,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Architecture Series #21 — Wave Planning: The Dependency Graph Decides, Not the Spreadsheet — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-discovery-wave-planning/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #9 - IAM Role Manager and the PowerUserAccess Default — Aug 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-iam-role-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #20 — The 7 Rs: Why Half of Every Rehost List Should Have Been Retire — Aug 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-seven-rs-migration-strategy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #8 - Reading S3 Backups Without a Restore — Aug 12, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aws-backup-s3-access-points/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #19 — Lambda Concurrency: The Thousand Every Function Is Quietly Sharing — Aug 12, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-lambda-concurrency/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #7 - EC2 Application Status Checks — Aug 11, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ec2-application-status-checks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
