@@ -63,8 +63,8 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 - AWS Daily Intelligence #10 - EKS Control Plane Parameters and the Knob That Backfires — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-eks-control-plane-configuration/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #21 — Wave Planning: The Dependency Graph Decides, Not the Spreadsheet — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-discovery-wave-planning/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #1 — Tenants, Management Groups and Subscriptions: Where the Blast Radius Actually Sits — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-scopes-and-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #1 — Organizations, Folders and Projects: Why the Project Is the Unit That Matters — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #9 - IAM Role Manager and the PowerUserAccess Default — Aug 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-iam-role-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #20 — The 7 Rs: Why Half of Every Rehost List Should Have Been Retire — Aug 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-seven-rs-migration-strategy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
