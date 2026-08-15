@@ -63,10 +63,10 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #1 — Organizations, Folders and Projects: Why the Project Is the Unit That Matters — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #1 — Tenants, Management Groups and Subscriptions: Where the Blast Radius Actually Sits — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-scopes-and-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #10 - EKS Control Plane Parameters and the Knob That Backfires — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-eks-control-plane-configuration/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #21 — Wave Planning: The Dependency Graph Decides, Not the Spreadsheet — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-discovery-wave-planning/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #1 — Tenants, Management Groups and Subscriptions: Where the Blast Radius Actually Sits — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-scopes-and-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #1 — Organizations, Folders and Projects: Why the Project Is the Unit That Matters — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #9 - IAM Role Manager and the PowerUserAccess Default — Aug 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-iam-role-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
