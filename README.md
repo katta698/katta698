@@ -49,7 +49,7 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 | Series | What it is | Published |
 |:---|:---|:---|
 | **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 21 posts |
-| **Azure Architecture Series** | — | 1 post |
+| **Azure Architecture Series** | — | 2 posts |
 | **GCP Architecture Series** | — | 2 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 13 of 52 |
 | **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 10 posts |
