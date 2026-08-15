@@ -63,11 +63,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Weekly Intelligence #2 - 10-14 August 2026 — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-10-14-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #1 - 10-14 August 2026 — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-10-14-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #11 - S3 Access Denied Now Names the Policy, Except When It Cannot — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-s3-access-denied-policy-detail/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #1 - 10-14 August 2026 — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-10-14-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #2 — Microsoft Entra ID as the Identity Plane: Tenant, Directory and the Trust a Subscription Depends On — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-entra-identity-plane/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #2 — Cloud Identity: The Boundary Somebody Else Already Drew — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-identity-plane/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #1 — Organizations, Folders and Projects: Why the Project Is the Unit That Matters — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #22 — Discovery After Application Discovery Service — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-discovery-after-ads/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
