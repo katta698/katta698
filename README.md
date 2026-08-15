@@ -63,11 +63,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Weekly Intelligence #1 - 10-14 August 2026 — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-10-14-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #1 - 10-14 August 2026 — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-10-14-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #2 — Microsoft Entra ID as the Identity Plane: Tenant, Directory and the Trust a Subscription Depends On — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-entra-identity-plane/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #2 — Cloud Identity: The Boundary Somebody Else Already Drew — Aug 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-identity-plane/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #1 — Organizations, Folders and Projects: Why the Project Is the Unit That Matters — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #1 — Tenants, Management Groups and Subscriptions: Where the Blast Radius Actually Sits — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-scopes-and-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #10 - EKS Control Plane Parameters and the Knob That Backfires — Aug 14, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-eks-control-plane-configuration/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
