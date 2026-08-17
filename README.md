@@ -65,11 +65,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #4 — Enabling Services: The Project Surface Nobody Decided — Aug 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-enablement/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #4 — Resource Providers and Registration: What "Not Registered" Really Means — Aug 17, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-providers-registration/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 14 - VPC Flow Logs + Network Intelligence: The Logs Everyone Enables and Nobody Reads — Aug 16, 2026 <a href="https://jayanthkatta.com/blog/week-14-vpc-flow-logs-intelligence/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #3 — Resource Manager: The Control Plane Is Asynchronous and Your Pipeline Is Not — Aug 16, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-control-plane/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #23 — DMS and CDC: What "Ongoing Replication" Does Not Promise — Aug 16, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-dms-cdc-guarantees/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #3 — Azure Resource Manager: The Control Plane Every Request Passes Through — Aug 16, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-manager-control-plane/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
