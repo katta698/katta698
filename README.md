@@ -43,19 +43,19 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 <img src="assets/section-03-the-work.svg" height="40" alt="03 — THE WORK" />
 
-Three ongoing series. Counts below are generated from the blog, not typed by hand.
-
 <!-- SERIES-LIST:START -->
+Eight ongoing series. Counts below are generated from the blog, not typed by hand.
+
 | Series | What it is | Published |
 |:---|:---|:---|
 | **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 25 posts |
-| **Azure Architecture Series** | — | 5 posts |
-| **GCP Architecture Series** | — | 5 posts |
+| **Azure Architecture Series** | The same treatment on Azure, explained on its own terms rather than as a translation from AWS — written for a reader who may never have opened an AWS console. | 5 posts |
+| **GCP Architecture Series** | The same treatment on Google Cloud, written while learning the platform rather than from years of it — which is exactly why every figure is checked against Google's own documentation before it ships. | 5 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 14 of 52 |
 | **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 12 posts |
-| **AWS Weekly Intelligence** | — | 2 posts |
-| **Azure Weekly Intelligence** | — | 1 post |
-| **GCP Weekly Intelligence** | — | 1 post |
+| **AWS Weekly Intelligence** | Everything AWS shipped in one week, ranked, published Saturday once the week is closed. The inventory is built from AWS's own feeds by script, because summarising them by hand missed a third of one week. | 2 posts |
+| **Azure Weekly Intelligence** | The same for Azure — one week of announcements, ranked, read from Microsoft's own release feeds rather than from a summary of them. | 1 post |
+| **GCP Weekly Intelligence** | The same for Google Cloud, built from the combined release-notes feed — which publishes one entry per calendar day rather than per announcement, so a day has to be taken apart before anything can be counted. | 1 post |
 <!-- SERIES-LIST:END -->
 
 <a href="https://github.com/katta698/AWS-Platform-Engineering-Lab"><img src="assets/link-explore.svg" height="34" alt="Explore the lab" /></a>
