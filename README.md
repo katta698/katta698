@@ -65,11 +65,11 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #5 — Project IDs: The Name You Only Get to Choose Once — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-project-identifiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #25 — Oracle to Aurora PostgreSQL: What "Converted" Actually Means — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-oracle-to-aurora-postgresql/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #5 — Resource Types and API Versions: The Dependency You Pin Without Noticing — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-types-api-versions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #4 — Enabling Services: The Project Surface Nobody Decided — Aug 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-enablement/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #24 — Cutover, Rollback, and the Button That Ends Both — Aug 17, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-mgn-cutover-freeze-window/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #4 — Resource Providers and Registration: What "Not Registered" Really Means — Aug 17, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-providers-registration/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
