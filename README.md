@@ -52,7 +52,7 @@ Three ongoing series. Counts below are generated from the blog, not typed by han
 | **Azure Architecture Series** | — | 5 posts |
 | **GCP Architecture Series** | — | 5 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 14 of 52 |
-| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 11 posts |
+| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 12 posts |
 | **AWS Weekly Intelligence** | — | 2 posts |
 | **Azure Weekly Intelligence** | — | 1 post |
 | **GCP Weekly Intelligence** | — | 1 post |
