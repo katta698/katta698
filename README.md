@@ -65,11 +65,11 @@ Eight ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Architecture Series #6 — Regions, Geographies and Sovereign Clouds: Where Your Data Actually Lives — Aug 19, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-regions-geographies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #5 — Project IDs: The Name You Only Get to Choose Once — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-project-identifiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #12 - The Sign-In Page Changed, and Only Your Scripts Will Notice — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aws-sign-in-experience/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #25 — Oracle to Aurora PostgreSQL: What "Converted" Actually Means — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-oracle-to-aurora-postgresql/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #5 — Resource Types and API Versions: The Dependency You Pin Without Noticing — Aug 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-types-api-versions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #4 — Enabling Services: The Project Surface Nobody Decided — Aug 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-enablement/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
