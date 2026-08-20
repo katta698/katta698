@@ -65,11 +65,11 @@ Eight ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #7 — Liens: The Brake With Somebody Else's Hand On It — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-liens/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #7 — Availability Zones: What a Zone Is, and What Zone-Redundant Actually Promises — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-availability-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #6 — Deleting a Project: The Undo Button That Only Half Works — Aug 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-project-lifecycle/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #13 - Policy Autopilot Reads Your Terraform Plan, Not Your Runtime — Aug 19, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-iam-policy-autopilot-terraform/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #26 — Mainframe Modernisation After Both Doors Closed — Aug 19, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-mainframe-after-the-doors-closed/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #6 — Regions, Geographies and Sovereign Clouds: Where Your Data Actually Lives — Aug 19, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-regions-geographies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
