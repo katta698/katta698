@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 14 - VPC Flow Logs + Network Intelligence: The Logs Everyone Enables and Nobody Reads - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 15 - CloudTrail Organization Trail + Audit Forensics: Nobody Could Tell Me Who Deleted It - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
