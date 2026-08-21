@@ -69,7 +69,7 @@ Eight ongoing series. Counts below are generated from the blog, not typed by han
 - AWS Daily Intelligence #15 - Network Firewall Counts Rule Hits, and Why Zero Does Not Mean Unused — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-network-firewall-rule-hit-count/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #28 — When the Network Is the Bottleneck, You Now Drive to AWS — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-network-bottleneck-data-transfer-terminal/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #8 — Paired Regions: What Pairing Promises, and What It Very Clearly Does Not — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-region-pairs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #7 — Liens: The Brake With Somebody Else's Hand On It — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-liens/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 15 - CloudTrail Organization Trail + Audit Forensics: Nobody Could Tell Me Who Deleted It — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/week-15-cloudtrail-audit-forensics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
