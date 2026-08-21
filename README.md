@@ -65,11 +65,11 @@ Eight ongoing series. Counts below are generated from the blog, not typed by han
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #8 — Global, Regional, Zonal: The Property That Decides Every Later Design — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-location-scope/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #8 — Paired Regions: What Pairing Promises, and What It Very Clearly Does Not — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-region-pairs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #7 — Liens: The Brake With Somebody Else's Hand On It — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-liens/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #14 - Twenty Managed Policies Per Role, and the Three Limits That Did Not Move — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-iam-managed-policy-quota/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #27 — DataSync and Transfer Family: Who Starts the Transfer — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-datasync-transfer-family/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #7 — Availability Zones: What a Zone Is, and What Zone-Redundant Actually Promises — Aug 20, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-availability-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
