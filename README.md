@@ -66,11 +66,11 @@ Nine ongoing series. Counts below are generated from the blog, not typed by hand
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Weekly Intelligence #3 - 17-21 August 2026 — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-17-21-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #2 - 17-21 August 2026 — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-17-21-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #9 — Dual-Region and Multi-Region: Choosing How Stale the Surviving Copy May Be — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-multi-region-locations/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #2 - 17-21 August 2026 — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-17-21-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #16 - Glue 6.0 Is Cheaper, and Its Headline Feature Makes Tables Athena Cannot Read — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-glue-6-iceberg-v3/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #29 — Strangler Fig: The Routing Layer Is the Migration — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-strangler-fig-routing-dual-write/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
