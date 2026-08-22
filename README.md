@@ -66,11 +66,11 @@ Nine ongoing series. Counts below are generated from the blog, not typed by hand
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Architecture Series #29 — Strangler Fig: The Routing Layer Is the Migration — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-strangler-fig-routing-dual-write/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #9 — Subscription Types: How the Agreement You Signed Shapes the Estate You Can Build — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-subscription-types/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 1 — A GCP Landing Zone, and Why It Is Not Two Accounts — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/week-01-gcp-landing-zone/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 15 - CloudTrail Organization Trail + Audit Forensics: Nobody Could Tell Me Who Deleted It — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/week-15-cloudtrail-audit-forensics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #8 — Global, Regional, Zonal: The Property That Decides Every Later Design — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-location-scope/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #15 - Network Firewall Counts Rule Hits, and Why Zero Does Not Mean Unused — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-network-firewall-rule-hit-count/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
