@@ -67,10 +67,10 @@ Nine ongoing series. Counts below are generated from the blog, not typed by hand
 
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #9 — Dual-Region and Multi-Region: Choosing How Stale the Surviving Copy May Be — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-multi-region-locations/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Weekly Intelligence #2 - 17-21 August 2026 — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-17-21-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #29 — Strangler Fig: The Routing Layer Is the Migration — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-strangler-fig-routing-dual-write/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #9 — Subscription Types: How the Agreement You Signed Shapes the Estate You Can Build — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-subscription-types/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 1 — A GCP Landing Zone, and Why It Is Not Two Accounts — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/week-01-gcp-landing-zone/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 15 - CloudTrail Organization Trail + Audit Forensics: Nobody Could Tell Me Who Deleted It — Aug 21, 2026 <a href="https://jayanthkatta.com/blog/week-15-cloudtrail-audit-forensics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
