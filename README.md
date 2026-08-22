@@ -55,7 +55,7 @@ Nine ongoing series. Counts below are generated from the blog, not typed by hand
 | **GCP Weekly Lab** | — | 1 of 53 |
 | **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 15 posts |
 | **AWS Weekly Intelligence** | Everything AWS shipped in one week, ranked, published Saturday once the week is closed. The inventory is built from AWS's own feeds by script, because summarising them by hand missed a third of one week. | 2 posts |
-| **Azure Weekly Intelligence** | The same for Azure — one week of announcements, ranked, read from Microsoft's own release feeds rather than from a summary of them. | 1 post |
+| **Azure Weekly Intelligence** | The same for Azure — one week of announcements, ranked, read from Microsoft's own release feeds rather than from a summary of them. | 2 posts |
 | **GCP Weekly Intelligence** | The same for Google Cloud, built from the combined release-notes feed — which publishes one entry per calendar day rather than per announcement, so a day has to be taken apart before anything can be counted. | 1 post |
 <!-- SERIES-LIST:END -->
 
