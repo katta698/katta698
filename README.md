@@ -53,7 +53,7 @@ Nine ongoing series. Counts below are generated from the blog, not typed by hand
 | **GCP Architecture Series** | The same treatment on Google Cloud, written while learning the platform rather than from years of it — which is exactly why every figure is checked against Google's own documentation before it ships. | 9 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 15 of 52 |
 | **GCP Weekly Lab** | — | 1 of 53 |
-| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 15 posts |
+| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 16 posts |
 | **AWS Weekly Intelligence** | Everything AWS shipped in one week, ranked, published Saturday once the week is closed. The inventory is built from AWS's own feeds by script, because summarising them by hand missed a third of one week. | 2 posts |
 | **Azure Weekly Intelligence** | The same for Azure — one week of announcements, ranked, read from Microsoft's own release feeds rather than from a summary of them. | 2 posts |
 | **GCP Weekly Intelligence** | The same for Google Cloud, built from the combined release-notes feed — which publishes one entry per calendar day rather than per announcement, so a day has to be taken apart before anything can be counted. | 1 post |
