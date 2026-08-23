@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - Azure Architecture Series #10 — Billing Profiles and Invoice Sections: Where the Org Chart Starts Costing Money — Aug 23, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-billing-profiles-invoice-sections/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #30 — Glue Catalog and Schema Drift: A Table Has Four Schemas — Aug 23, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-glue-catalog-schema-drift/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 1 — The Policy Was Perfect and It Governed Nothing — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/week-01-azure-landing-zone/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #3 - 17-21 August 2026 — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-17-21-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #2 - 17-21 August 2026 — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-17-21-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #9 — Dual-Region and Multi-Region: Choosing How Stale the Surviving Copy May Be — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-multi-region-locations/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
