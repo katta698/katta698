@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #11 — Billing Accounts, Subaccounts and the Payments Profile: Where the Money Attaches — Aug 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #11 — Quotas and Limits: Where They Are Counted, and How to Raise Them — Aug 24, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-quotas-and-limits/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #10 — Premium and Standard Network Tiers: Where Traffic Leaves Google's Backbone — Aug 23, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-network-tiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #10 — Billing Profiles and Invoice Sections: Where the Org Chart Starts Costing Money — Aug 23, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-billing-profiles-invoice-sections/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #30 — Glue Catalog and Schema Drift: A Table Has Four Schemas — Aug 23, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-glue-catalog-schema-drift/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 1 — The Policy Was Perfect and It Governed Nothing — Aug 22, 2026 <a href="https://jayanthkatta.com/blog/week-01-azure-landing-zone/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
