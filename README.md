@@ -50,7 +50,7 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 |:---|:---|:---|
 | **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 30 posts |
 | **Azure Architecture Series** | The same treatment on Azure, explained on its own terms rather than as a translation from AWS — written for a reader who may never have opened an AWS console. | 10 posts |
-| **GCP Architecture Series** | The same treatment on Google Cloud, written while learning the platform rather than from years of it — which is exactly why every figure is checked against Google's own documentation before it ships. | 10 posts |
+| **GCP Architecture Series** | The same treatment on Google Cloud, written while learning the platform rather than from years of it — which is exactly why every figure is checked against Google's own documentation before it ships. | 11 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 15 of 52 |
 | **Azure Weekly Lab** | — | 1 of 52 |
 | **GCP Weekly Lab** | — | 1 of 53 |
