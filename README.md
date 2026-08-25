@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #12 — Linking a Project to Billing, and What Breaks the Moment It Is Disabled — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-link/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #12 — Resource Naming Standards That Survive Three Years — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-naming/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #11 — Billing Accounts, Subaccounts and the Payments Profile: Where the Money Attaches — Aug 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #11 — Quotas and Limits: Where They Are Counted, and How to Raise Them — Aug 24, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-quotas-and-limits/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #31 — Iceberg on S3: Why Table Formats Arrived — Aug 24, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-iceberg-table-formats/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #10 — Premium and Standard Network Tiers: Where Traffic Leaves Google's Backbone — Aug 23, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-network-tiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
