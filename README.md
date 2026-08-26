@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #13 — Billing Export to BigQuery, and Why the Console Is Not the Source of Truth — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-export-bigquery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #12 — Linking a Project to Billing, and What Breaks the Moment It Is Disabled — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-link/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #12 — Resource Naming Standards That Survive Three Years — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-naming/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #17 - EKS Now Takes Ten OIDC Providers, and Prefixes Stop Being Cosmetic — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-eks-multiple-oidc-providers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #32 — Redshift or Athena: When a Warehouse Earns Its Keep — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-redshift-or-athena/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #11 — Billing Accounts, Subaccounts and the Payments Profile: Where the Money Attaches — Aug 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
