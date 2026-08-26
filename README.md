@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 1 — The Policy Was Perfect and It Governed Nothing - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 2 — The Error Named a Deployment. The Fault Was a Role. - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
