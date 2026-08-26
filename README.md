@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #13 — Billing Export to BigQuery, and Why the Console Is Not the Source of Truth — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-export-bigquery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #13 — Tagging Strategy, and the Tags That Do Not Inherit — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-tagging-strategy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #12 — Linking a Project to Billing, and What Breaks the Moment It Is Disabled — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-link/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #12 — Resource Naming Standards That Survive Three Years — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-naming/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #17 - EKS Now Takes Ten OIDC Providers, and Prefixes Stop Being Cosmetic — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-eks-multiple-oidc-providers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #32 — Redshift or Athena: When a Warehouse Earns Its Keep — Aug 25, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-redshift-or-athena/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
