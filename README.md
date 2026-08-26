@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - Week 2 — The Error Named a Deployment. The Fault Was a Role. — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/week-02-policy-as-code/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 2 — Keyless CI on Google Cloud: The Shortcut Was Already Gone — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/week-02-keyless-ci/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #13 — Billing Export to BigQuery, and Why the Console Is Not the Source of Truth — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-billing-export-bigquery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #13 — Tagging Strategy, and the Tags That Do Not Inherit — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-tagging-strategy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #18 - Lambda Gets a Real Resource Policy, and One Call That Erases Every Trigger — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-full-resource-based-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #33 — Lake Formation and Governed Access — Aug 26, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-lake-formation-governed-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
