@@ -69,9 +69,9 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #15 — Quotas: Allocation Versus Rate — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-quotas-allocation-vs-rate/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #15 — Initiatives, and the Compliance Percentage That Counts Exemptions as Wins — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-initiatives-and-compliance-state/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #35 — The seven gates every AWS request passes through — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-iam-policy-evaluation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #14 — Reading a Google Cloud Invoice — Aug 27, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-reading-an-invoice/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #14 — Azure Policy: Definitions, Assignments, and the One That Actually Governs — Aug 27, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-policy-definitions-assignments-effects/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #19 - Cognito Can Reset a Lost Authenticator, and Whoever Holds That Permission Owns the Account — Aug 27, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-cognito-totp-reset/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
