@@ -70,8 +70,8 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 - Week 16 - AWS DevOps Agent: The Agent Was Right, and I Still Had to Check — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/week-16-devops-agent-investigations/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #3 - 24-28 August 2026 — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-24-28-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #16 — Requesting a Quota Increase, and Designing So You Do Not Have To — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-requesting-a-quota-increase/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #16 — Remediation Tasks, and the Identity Nobody Regrants — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-remediation-tasks-managed-identities/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #36 — The ceiling you can hand to a product team — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-permissions-boundaries/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #15 — Quotas: Allocation Versus Rate — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-quotas-allocation-vs-rate/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
