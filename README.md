@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #16 — Requesting a Quota Increase, and Designing So You Do Not Have To — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-requesting-a-quota-increase/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #15 — Quotas: Allocation Versus Rate — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-quotas-allocation-vs-rate/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #15 — Initiatives, and the Compliance Percentage That Counts Exemptions as Wins — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-initiatives-and-compliance-state/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #20 - Aurora DSQL Adds Foreign Keys, and Every Child Insert Now Watches the Parent Row — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-dsql-foreign-keys/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #35 — The seven gates every AWS request passes through — Aug 28, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-iam-policy-evaluation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #14 — Reading a Google Cloud Invoice — Aug 27, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-reading-an-invoice/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
