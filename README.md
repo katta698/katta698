@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Architecture Series #37 — The other half of the role — Aug 30, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-role-trust-policy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #4 - 24-28 August 2026 — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-24-28-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #21 - A Path Traversal in the SSM Agent, and Why Scoping SendCommand Was Never a Privilege Boundary — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ssm-agent-path-traversal/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 16 - AWS DevOps Agent: The Agent Was Right, and I Still Had to Check — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/week-16-devops-agent-investigations/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #3 - 24-28 August 2026 — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-24-28-august-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #16 — Requesting a Quota Increase, and Designing So You Do Not Have To — Aug 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-requesting-a-quota-increase/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
