@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #19 — Organization Policy Service: Constraints and How They Inherit — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-organization-policy-inheritance/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #39 — The account the guardrails cannot reach — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-management-account/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #18 — Resource Naming Standards That Survive Three Years — Aug 31, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-naming-standards/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #18 — Azure RBAC: Role Definitions, Assignments and Scope — Aug 31, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-rbac-definitions-assignments-scope/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #38 — Three analyzers, three questions — Aug 31, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-access-analyzer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #17 — Labels Versus Tags: Two Systems That Look Alike and Are Not — Aug 30, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-labels-versus-tags/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
