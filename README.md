@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Architecture Series #20 — Custom Roles: Assignable Scopes and Their Limits — Sep 2, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-custom-roles-assignable-scopes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #22 - AWS Agent Registry Goes GA, and the Approval Queue Becomes an Allowlist — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-agent-registry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #19 — Organization Policy Service: Constraints and How They Inherit — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-organization-policy-inheritance/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #19 — The Built-in Roles Worth Knowing, and the Ones Routinely Misused — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-built-in-roles-worth-knowing/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #39 — The account the guardrails cannot reach — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-management-account/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #18 — Resource Naming Standards That Survive Three Years — Aug 31, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-resource-naming-standards/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
