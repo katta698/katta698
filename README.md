@@ -48,13 +48,13 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 | Series | What it is | Published |
 |:---|:---|:---|
-| **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 39 posts |
+| **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 40 posts |
 | **Azure Architecture Series** | The same treatment on Azure, explained on its own terms rather than as a translation from AWS — written for a reader who may never have opened an AWS console. | 20 posts |
 | **GCP Architecture Series** | The same treatment on Google Cloud, written while learning the platform rather than from years of it — which is exactly why every figure is checked against Google's own documentation before it ships. | 20 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 16 of 52 |
 | **Azure Weekly Lab** | — | 2 of 52 |
 | **GCP Weekly Lab** | — | 2 of 52 |
-| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 22 posts |
+| **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 23 posts |
 | **AWS Weekly Intelligence** | Everything AWS shipped in one week, ranked, published Saturday once the week is closed. The inventory is built from AWS's own feeds by script, because summarising them by hand missed a third of one week. | 4 posts |
 | **Azure Weekly Intelligence** | The same for Azure — one week of announcements, ranked, read from Microsoft's own release feeds rather than from a summary of them. | 3 posts |
 | **GCP Weekly Intelligence** | The same for Google Cloud, built from the combined release-notes feed — which publishes one entry per calendar day rather than per announcement, so a day has to be taken apart before anything can be counted. | 3 posts |
