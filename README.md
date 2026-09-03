@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #21 — Dry-Run Mode: Testing a Policy Before It Denies Anything — Sep 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-dry-run-policy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #21 — Deny Assignments, and What Replaced Blueprints — Sep 3, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-deny-assignments-deployment-stacks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #23 - A Signing Key in Cleartext, and Why Upgrading the SDK Is Only Half the Fix — Sep 2, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-sagemaker-pipeline-hmac/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #20 — Boolean, List and Custom Constraints — Sep 2, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-constraint-types/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #20 — Custom Roles: Assignable Scopes and Their Limits — Sep 2, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-custom-roles-assignable-scopes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #40 — The controls you cannot add later — Sep 2, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-account-baseline/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #22 - AWS Agent Registry Goes GA, and the Approval Queue Becomes an Allowlist — Sep 1, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-agent-registry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
