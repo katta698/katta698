@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 3 — The Pin Held. The Default Moved Anyway. — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/week-03-module-factory/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 3 — Organization Policy on Google Cloud: Twelve Policies, or Twenty-Six? — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/week-03-org-policy-guardrails/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #22 — Management Locks: CanNotDelete and ReadOnly — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-management-locks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #24 - SnapStart Reaches Container Images, and One Snapshot Becomes Every Environment — Sep 3, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-snapstart-container-images/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #21 — Dry-Run Mode: Testing a Policy Before It Denies Anything — Sep 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-dry-run-policy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #21 — Deny Assignments, and What Replaced Blueprints — Sep 3, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-deny-assignments-deployment-stacks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #41 — The log you cannot alter — Sep 3, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-log-archive/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
