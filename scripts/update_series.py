@@ -24,6 +24,14 @@ BLURB = {
     "AWS Weekly Lab":
         "One production-grade capability built end to end each week. Working "
         "Terraform, an architecture diagram, and an honest writeup of what broke.",
+    "Azure Weekly Lab":
+        "The same on Azure — one capability built and proven to run before "
+        "it is written about, which is why a lab post goes out when the build "
+        "works rather than on a fixed day.",
+    "GCP Weekly Lab":
+        "The same on Google Cloud, on a platform being learned in the open "
+        "— so the evidence is a screenshot of a control refusing something "
+        "it is meant to refuse, rather than a claim that it would.",
     "AWS Daily Intelligence":
         "What AWS shipped, and whether it actually changes anything. Every "
         "claim cited to official AWS documentation.",
@@ -65,6 +73,7 @@ def intro(n):
 
 def build(stats):
     rows = ["| Series | What it is | Published |", "|:---|:---|:---|"]
+    missing = []
     for s in stats.get("series", []):
         label = s["label"]
         count = s["count"]
@@ -72,8 +81,28 @@ def build(stats):
         # length (the 52-week lab). Everything else is open-ended.
         progress = "%d of %d" % (count, s["total"]) if s.get("total") else (
             "%d post%s" % (count, "" if count == 1 else "s"))
+        if label not in BLURB:
+            missing.append(label)
         rows.append("| **%s** | %s | %s |" % (
             label, BLURB.get(label, "\u2014"), progress))
+
+    # Say so, loudly and in the Actions UI. The em dash is a silent fallback --
+    # a new series appears in the table the moment it has one post, and until
+    # 2026-09-04 nothing anywhere reported that its prose was missing. Azure and
+    # GCP Weekly Lab both reached three posts showing an em dash, and it was
+    # spotted by a human reading the profile on a phone.
+    #
+    # This annotates rather than exits non-zero on purpose: the same run also
+    # refreshes the latest-posts list and every count, and blocking all of that
+    # over one absent sentence trades a visible gap for an invisible staleness.
+    for label in missing:
+        print("::error file=scripts/update_series.py,title=Missing series "
+              "blurb::%s has no BLURB entry, so its row renders an em dash. "
+              "Add it to BLURB in this file." % label, file=sys.stderr)
+    if missing:
+        print("WARNING: %d series with no blurb: %s"
+              % (len(missing), ", ".join(missing)), file=sys.stderr)
+
     # The intro line joins the generated block, so it moves inside the markers
     # and stops being a hand-maintained number.
     return intro(len(stats.get("series", []))) + "\n\n" + "\n".join(rows)
