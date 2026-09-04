@@ -49,10 +49,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 | Series | What it is | Published |
 |:---|:---|:---|
 | **AWS Architecture Series** | One enterprise pattern at a time — the decision, the trade-offs, and what it costs when it is made badly. | 41 posts |
-| **Azure Architecture Series** | The same treatment on Azure, explained on its own terms rather than as a translation from AWS — written for a reader who may never have opened an AWS console. | 21 posts |
+| **Azure Architecture Series** | The same treatment on Azure, explained on its own terms rather than as a translation from AWS — written for a reader who may never have opened an AWS console. | 22 posts |
 | **GCP Architecture Series** | The same treatment on Google Cloud, written while learning the platform rather than from years of it — which is exactly why every figure is checked against Google's own documentation before it ships. | 21 posts |
 | **AWS Weekly Lab** | One production-grade capability built end to end each week. Working Terraform, an architecture diagram, and an honest writeup of what broke. | 16 of 52 |
-| **Azure Weekly Lab** | — | 2 of 52 |
+| **Azure Weekly Lab** | — | 3 of 52 |
 | **GCP Weekly Lab** | — | 3 of 52 |
 | **AWS Daily Intelligence** | What AWS shipped, and whether it actually changes anything. Every claim cited to official AWS documentation. | 24 posts |
 | **AWS Weekly Intelligence** | Everything AWS shipped in one week, ranked, published Saturday once the week is closed. The inventory is built from AWS's own feeds by script, because summarising them by hand missed a third of one week. | 4 posts |
