@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 16 - AWS DevOps Agent: The Agent Was Right, and I Still Had to Check - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 3 — Organization Policy on Google Cloud: What the Platform Had Already Decided - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
