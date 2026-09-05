@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - AWS Weekly Intelligence #5 - 31 August-4 September 2026 — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-31-august-4-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 17 - An MCP Server That Answers What My AWS Account Is Doing — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/week-17-mcp-platform-ops/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #4 - 31 August-4 September 2026 — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-31-august-4-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #26 - Four Bulletins in a Day, and Three of Them Are the Same Bug — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-mcp-denylist/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #4 - 31 August-4 September 2026 — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-31-august-4-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #23 — Cloud Asset Inventory: What Exists, and What Changed — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-asset-inventory/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
