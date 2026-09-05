@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Weekly Intelligence #4 - 31 August-4 September 2026 — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-31-august-4-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Weekly Intelligence #4 - 31 August-4 September 2026 — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-31-august-4-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #23 — Cloud Asset Inventory: What Exists, and What Changed — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-asset-inventory/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #24 — Deployment Scopes: Tenant, Management Group, Subscription, Resource Group — Sep 5, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-deployment-scopes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #23 — Resource Moves: What Can Move, What Cannot, and What Breaks — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-resource-moves/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 3 — The Pin Held. The Default Moved Anyway. — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/week-03-module-factory/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #25 - Aurora MySQL Gets Delayed Replication, and an Hour of Lag Becomes a Recovery Window — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aurora-delayed-replication/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 3 — Organization Policy on Google Cloud: Twelve Policies, or Twenty-Six? — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/week-03-org-policy-guardrails/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #22 — The Organization Policies Worth Setting on Day One — Sep 4, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-day-one-org-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
