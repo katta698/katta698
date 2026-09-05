@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 3 — The Pin Held. The Default Moved Anyway. - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 17 - An MCP Server That Answers What My AWS Account Is Doing - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
