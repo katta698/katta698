@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #27 — Config Connector: Kubernetes as the Control Plane — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-config-connector/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #27 - The appliance died and nobody told the client — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-gwlb-tcp-reset/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #26 — Infrastructure Manager: Managed Terraform — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-infrastructure-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #27 — Terraform on Azure: the AzureRM Provider and State — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-terraform-state/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #46 — The query that never touches the firewall — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-dns-firewall-egress/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #25 — Terraform on Google Cloud: The Provider and Where State Lives — Sep 7, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-terraform-state/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
