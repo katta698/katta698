@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #28 - A retention clock that starts when something happens — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-s3-object-lock-event-holds/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #27 — Config Connector: Kubernetes as the Control Plane — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-config-connector/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #28 — Deployment Stacks and Managed Resources — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-deployment-stacks-managed-resources/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #47 — The log that records that it happened, not what — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-flow-logs-investigation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #27 - The appliance died and nobody told the client — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-gwlb-tcp-reset/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #26 — Infrastructure Manager: Managed Terraform — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-infrastructure-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #27 — Terraform on Azure: the AzureRM Provider and State — Sep 8, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-terraform-state/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
