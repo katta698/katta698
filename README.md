@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #28 — gcloud, the REST API, and What the Console Quietly Does for You — Sep 10, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-gcloud-and-the-api/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #29 — What-If, Preflight Validation and Deployment History — Sep 10, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-what-if-preflight-history/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #28 - A retention clock that starts when something happens — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-s3-object-lock-event-holds/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #27 — Config Connector: Kubernetes as the Control Plane — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-config-connector/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #28 — Deployment Stacks and Managed Resources — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-deployment-stacks-managed-resources/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #47 — The log that records that it happened, not what — Sep 9, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-flow-logs-investigation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
