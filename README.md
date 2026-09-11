@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #29 — The Enterprise Foundations Blueprint, Section by Section — Sep 11, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-foundations-blueprint/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #30 — Landing Zones and the Cloud Adoption Framework Accelerator — Sep 11, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-landing-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #29 - Unmanaged is a symptom, and now it names the cause — Sep 10, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ssm-unmanaged-diagnosis/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #28 — gcloud, the REST API, and What the Console Quietly Does for You — Sep 10, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-gcloud-and-the-api/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #29 — What-If, Preflight Validation and Deployment History — Sep 10, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-what-if-preflight-history/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #48 — What it costs to have kept everything — Sep 10, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-logging-cost/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
