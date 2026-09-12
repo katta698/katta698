@@ -71,7 +71,7 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 - Week 18 - EKS Self-Service: A Namespace Is Not a Boundary — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/week-18-eks-self-service/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 4 — Vending a Subscription Takes Four Minutes. Getting Rid of One Takes Three Days. — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/week-04-subscription-vending/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #5 - 7-11 September 2026 — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-7-11-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #30 — Landing Zone Design for a Real Organisation — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-landing-zone-design/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Weekly Intelligence #5 - 7-11 September 2026 — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-7-11-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
