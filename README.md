@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 4 — Shared VPC on Google Cloud: The Identity I Built Could Not Do This Week — Sep 13, 2026 <a href="https://jayanthkatta.com/blog/week-04-shared-vpc/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 4 — Vending a Subscription Takes Four Minutes. Getting Rid of One Takes Three Days. — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/week-04-subscription-vending/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #30 — Landing Zone Design for a Real Organisation — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-landing-zone-design/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #30 - One bit that says whether it is AWS, and it is not ready today — Sep 11, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-cloudwatch-nhi-tgw/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #29 — The Enterprise Foundations Blueprint, Section by Section — Sep 11, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-foundations-blueprint/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #30 — Landing Zones and the Cloud Adoption Framework Accelerator — Sep 11, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-landing-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #49 — The bill does not divide — Sep 11, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cost-allocation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
