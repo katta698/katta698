@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 4 — Shared VPC on Google Cloud: The Identity I Built Could Not Do This Week - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 18 - EKS Self-Service: A Namespace Is Not a Boundary - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
