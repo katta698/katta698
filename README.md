@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - Azure Architecture Series #33 — Dynamic Membership Rules — Sep 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-dynamic-membership-rules/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #52 — The retry you did not write — Sep 14, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-idempotency/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #31 — IAM Principals: Users, Groups, Domains and Service Accounts — Sep 13, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-principals/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #32 — Users, Groups and Administrative Units — Sep 13, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-users-groups-administrative-units/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #51 — The alarm rings after the money is gone — Sep 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-budgets-anomaly-detection/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Weekly Intelligence #6 - 7-11 September 2026 — Sep 12, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-7-11-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
