@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #32 - The table had two writers and no owner — Sep 15, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-glue-zero-etl-ownership/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #33 — Allow Policies, Bindings, and the Union Rule — Sep 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-allow-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #34 — App Registrations and Service Principals — Sep 15, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-app-registrations-service-principals/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #53 — The write was atomic. The event was not. — Sep 15, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-outbox-dual-write/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #32 — Roles: Basic, Predefined and Custom — Sep 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-roles/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #33 — Dynamic Membership Rules — Sep 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-dynamic-membership-rules/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #52 — The retry you did not write — Sep 14, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-idempotency/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
