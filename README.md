@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #35 — Custom Roles: Launch Stages, and the Permissions You Cannot Grant — Sep 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-custom-roles/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #36 — Managed Identity on VMs, App Service, Functions and AKS — Sep 17, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-managed-identity-by-host/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #33 - The root alarm was watching one Region — Sep 16, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-root-user-regional-resiliency/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #34 — Inheritance in Practice: Tracing Why an Account Has Access — Sep 16, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-inheritance-tracing/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #35 — Managed Identities: System-Assigned versus User-Assigned — Sep 16, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-managed-identities-system-vs-user-assigned/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #54 — The herd is spread, not smaller — Sep 16, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-retries-backoff-jitter/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
