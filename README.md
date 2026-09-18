@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - AWS Daily Intelligence #35 - The environment per application was the ceiling — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-beanstalk-cluster-mode/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #36 — Deny Policies: Syntax, Evaluation Order and Denial Conditions — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-deny-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #37 — Workload Identity Federation — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-workload-identity-federation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #56 — The blast radius was decided by a field name — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-multi-tenancy-isolation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #34 - The limit you could hit but never measure — Sep 17, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-sts-session-token-size/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #35 — Custom Roles: Launch Stages, and the Permissions You Cannot Grant — Sep 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-custom-roles/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
