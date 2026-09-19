@@ -71,7 +71,7 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 - Week 5 — The Expensive Thing Should Be the Disposable Thing — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/week-05-hub-network/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #6 - 14-18 September 2026 — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-14-18-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #36 - Four times the payload, a fraction of the fan-out — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-sns-1mib-payloads/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Weekly Intelligence #6 - 14-18 September 2026 — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-14-18-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 5 — A Project Factory on Google Cloud: The Constraint That Could Not Read Its Own Labels — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/week-05-project-factory/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
