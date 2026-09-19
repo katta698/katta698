@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 19 - GitOps on EKS: Should You Run Argo CD, or Let AWS? - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 5 — The Expensive Thing Should Be the Disposable Thing - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
