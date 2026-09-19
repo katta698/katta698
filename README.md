@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Weekly Intelligence #6 - 14-18 September 2026 — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-14-18-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #37 — IAM Conditions: Attribute-Based Access Control — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-conditions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 19 - GitOps on EKS: Should You Run Argo CD, or Let AWS? — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/week-19-gitops-argocd/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #35 - The environment per application was the ceiling — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-beanstalk-cluster-mode/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #36 — Deny Policies: Syntax, Evaluation Order and Denial Conditions — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-deny-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #37 — Workload Identity Federation — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-workload-identity-federation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #56 — The blast radius was decided by a field name — Sep 18, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-multi-tenancy-isolation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
