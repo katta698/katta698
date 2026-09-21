@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #39 — Service Accounts: What They Are, and What They Are Not — Sep 21, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #38 — Policy Troubleshooter and Policy Analyzer — Sep 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-policy-troubleshooter/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #39 — OAuth 2.0 and OpenID Connect Flows on Entra — Sep 20, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-oauth-oidc-flows/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #58 — The compensation step was handed the error, not the order — Sep 20, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-saga-compensation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #7 - 14-18 September 2026 — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-14-18-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 5 — The Expensive Thing Should Be the Disposable Thing — Sep 19, 2026 <a href="https://jayanthkatta.com/blog/week-05-hub-network/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
