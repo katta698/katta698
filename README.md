@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #37 - You can now watch it fail in real time — Sep 22, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ecs-deployment-observability/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #60 — The one you cannot re-read — Sep 22, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-kinesis-msk-firehose/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #39 — Service Accounts: What They Are, and What They Are Not — Sep 21, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #40 — Access, ID and Refresh Tokens, and Their Lifetimes — Sep 21, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-tokens-and-lifetimes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #59 — The read side can throttle the write side — Sep 21, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cqrs-read-models/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #38 — Policy Troubleshooter and Policy Analyzer — Sep 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-policy-troubleshooter/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #39 — OAuth 2.0 and OpenID Connect Flows on Entra — Sep 20, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-oauth-oidc-flows/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
