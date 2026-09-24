@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #42 — Short-Lived Credentials and Token Generation — Sep 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-short-lived-credentials/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #42 — Named Locations, Device Filters and Risk Conditions — Sep 24, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-locations-device-filters-risk/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #38 - Every prompt is now telemetry — Sep 23, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-cloudwatch-omni/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #41 — Service Account Impersonation — Sep 23, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-account-impersonation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #41b — Session Controls and Report-Only Mode — Sep 23, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-session-controls-report-only/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #61 — The model never saw the answer — Sep 23, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-rag-retrieval/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
