@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 6 — I Gave Myself Owner, Then Couldn| **Building** | Week 5 — The Expensive Thing Should Be the Disposable Thing - 52-week AWS Platform Engineering Lab |#x27;t Delete My Own Storage Account - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 6 — I Gave Myself Owner, Then Couldn| **Building** | Week 6 — I Gave Myself Owner, Then Couldn| **Building** | Week 5 — The Expensive Thing Should Be the Disposable Thing - 52-week AWS Platform Engineering Lab |#x27;t Delete My Own Storage Account - 52-week AWS Platform Engineering Lab |#x27;t Delete My Own Storage Account - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
