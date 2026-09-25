@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 6 — I Gave Myself Owner, Then Couldn't Delete My Own Storage Account — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/week-06-deployment-stacks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #40 - A hundred buses became five — Sep 25, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-eventbridge-custom-event-bus/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #43 — Workload Identity Federation for AWS — Sep 25, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-workload-identity-federation-aws/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #43 — MFA Methods and Authentication Strength — Sep 25, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-mfa-methods-auth-strength/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #63 — The cheapest place to keep them is not where you search them — Sep 25, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-vector-storage/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #39 - The partition key was doing two jobs — Sep 24, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-kinesis-service-managed-partition-keys/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
