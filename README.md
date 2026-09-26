@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- Week 6 — I Gave Myself Owner, Then Couldn't Delete My Own Storage Account — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/week-06-deployment-stacks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #7 - 21-25 September 2026 — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-21-25-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #7 - 21-25 September 2026 — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-21-25-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #44 — Workload Identity Federation for OIDC Providers and CI Systems — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-workload-identity-federation-oidc/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #44 — Passwordless: FIDO2, Windows Hello and Authenticator — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-passwordless/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 6 — I Gave Myself Owner, Then Couldn't Delete My Own Storage Account — Sep 25, 2026 <a href="https://jayanthkatta.com/blog/week-06-deployment-stacks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
