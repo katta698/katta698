@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Architecture Series #45 — Privileged Identity Management: Eligible versus Active — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-pim-eligible-vs-active/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 20 - An Accountable Event Bus: What Happens to an Event Nobody Wanted — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/week-20-eventbridge-accountable-bus/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #8 - 21-25 September 2026 — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-21-25-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #7 - 21-25 September 2026 — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-21-25-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #41 - The connection string is executable — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-redshift-jdbc-class-loading/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Weekly Intelligence #7 - 21-25 September 2026 — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-21-25-september-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
