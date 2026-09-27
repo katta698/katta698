@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 20 - An Accountable Event Bus: What Happens to an Event Nobody Wanted - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 6 — Billing Export on Google Cloud: The Data Was Already There - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
