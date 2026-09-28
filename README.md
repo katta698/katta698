@@ -69,9 +69,9 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #46 — Attached Service Accounts on Compute Engine — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-attached-service-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #46 — PIM Approval Workflows and Access Reviews — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-pim-approvals-access-reviews/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #66 — The judge has no answer key unless you write one — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-model-evaluation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 6 — Billing Export on Google Cloud: The Data Was Already There — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/week-06-billing-export/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #45 — Workload Identity for GKE — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-workload-identity-gke/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #45 — Privileged Identity Management: Eligible versus Active — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-pim-eligible-vs-active/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
