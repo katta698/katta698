@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Architecture Series #46 — PIM Approval Workflows and Access Reviews — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-pim-approvals-access-reviews/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 6 — Billing Export on Google Cloud: The Data Was Already There — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/week-06-billing-export/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #45 — Workload Identity for GKE — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-workload-identity-gke/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #45 — Privileged Identity Management: Eligible versus Active — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-pim-eligible-vs-active/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #65 — Every door in this decision opens one way — Sep 27, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-bedrock-or-sagemaker/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 20 - An Accountable Event Bus: What Happens to an Event Nobody Wanted — Sep 26, 2026 <a href="https://jayanthkatta.com/blog/week-20-eventbridge-accountable-bus/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
