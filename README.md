@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #42 - The air gap is that they are not in your account — Sep 29, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-air-gapped-vault-fsx-ontap/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #47 — Application Default Credentials, and How Libraries Find Them — Sep 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-application-default-credentials/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #47 — Break-Glass Accounts and Their Exclusions — Sep 29, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-break-glass-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #67 — A foundation model never says no — Sep 29, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-task-shaped-services/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #46 — Attached Service Accounts on Compute Engine — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-attached-service-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #46 — PIM Approval Workflows and Access Reviews — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-pim-approvals-access-reviews/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #66 — The judge has no answer key unless you write one — Sep 28, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-model-evaluation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
