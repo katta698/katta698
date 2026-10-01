@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #44 - The filter ran after the search, and nothing said so — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-s3-vectors-pre-filtering/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #69 — Small records cost more, and the cheap path starts at 60 seconds — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-streaming-versus-batch/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 7 — CI That Deploys to Azure With No Password Anywhere — Sep 30, 2026 <a href="https://jayanthkatta.com/blog/week-07-workload-identity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #43 - The third agent runtime, and the first one is closed — Sep 30, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-bedrock-managed-agents/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #48 — Service Agents: The Accounts Google Creates on Your Behalf — Sep 30, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-agents/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #48 — Entra ID Protection: Risk Detections and Policies — Sep 30, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-id-protection-risk-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #68 — Your payload picks the endpoint before your latency budget does — Sep 30, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-inference-endpoints/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
