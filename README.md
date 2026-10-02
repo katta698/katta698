@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #45 - A Regional override replaces the default, it does not extend it — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-guardduty-declarative-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #50 — Directory Synchronisation from On-Premises — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-directory-sync/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #50 — Writeback: Letting the Cloud Change the Directory — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-writeback/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #70 — The trust anchor is not the boundary — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-roles-anywhere/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #44 - The filter ran after the search, and nothing said so — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-s3-vectors-pre-filtering/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #49 — Cloud Identity: Users, Groups and Domain Verification — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-identity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #49 — Hybrid Identity: Entra Connect Sync Topologies — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-hybrid-sync-topologies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
