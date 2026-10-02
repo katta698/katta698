@@ -70,7 +70,7 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 - AWS Daily Intelligence #44 - The filter ran after the search, and nothing said so — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-s3-vectors-pre-filtering/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #49 — Cloud Identity: Users, Groups and Domain Verification — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-identity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #49 — Hybrid Identity: Entra Connect Sync Topologies — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-hybrid-sync-topologies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #69 — Small records cost more, and the cheap path starts at 60 seconds — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-streaming-versus-batch/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #69 — Small records cost more, and the managed path goes down to zero seconds — Oct 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-streaming-versus-batch/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 7 — CI That Deploys to Azure With No Password Anywhere — Sep 30, 2026 <a href="https://jayanthkatta.com/blog/week-07-workload-identity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
