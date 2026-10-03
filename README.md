@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 21 - Blue/Green on ECS: The Rollback That Never Had To Happen — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/week-21-bluegreen-ecs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #9 - 28 September-2 October 2026 — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-28-september-2-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #8 - 28 September - 2 October 2026 — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-28-september-2-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #8 - 28 September-2 October 2026 — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-28-september-2-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #46 - The most cautious deployment the API accepts cannot finish — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ecs-lattice-deployments/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #51 — Single Sign-On with a Third-Party Identity Provider — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-single-sign-on/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
