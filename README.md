@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Weekly Intelligence #8 - 28 September - 2 October 2026 — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-28-september-2-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #8 - 28 September-2 October 2026 — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-28-september-2-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #51 — Single Sign-On with a Third-Party Identity Provider — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-single-sign-on/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #51 — Seamless SSO: One Computer Account Holds the Whole Thing — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-seamless-sso/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #45 - A Regional override replaces the default, it does not extend it — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-guardduty-declarative-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #50 — Directory Synchronisation from On-Premises — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-directory-sync/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #50 — Writeback: Letting the Cloud Change the Directory — Oct 2, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-writeback/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
