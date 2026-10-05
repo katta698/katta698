@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Architecture Series #53 — B2B Collaboration: What a Guest Is Before You Grant Anything — Oct 5, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-b2b-guest-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #52 — Google Groups as the Unit of Access — Oct 4, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-groups-as-unit-of-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #52 — Entra Domain Services Versus Domain Controllers on VMs — Oct 4, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-domain-services/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #72 — The permission you can run out of — Oct 4, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-kms-grants/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 21 - Blue/Green on ECS: The Rollback That Never Had To Happen — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/week-21-bluegreen-ecs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Weekly Intelligence #9 - 28 September-2 October 2026 — Oct 3, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-28-september-2-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
