@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - GCP Architecture Series #54 — Privileged Access Manager and Just-in-Time Elevation — Oct 6, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-privileged-access-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #54 — External ID: A Separate Tenant, and a Different Feature Set — Oct 6, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-external-id-ciam/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #53 — Context-Aware Access — Oct 5, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-context-aware-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #53 — B2B Collaboration: What a Guest Is Before You Grant Anything — Oct 5, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-b2b-guest-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #73 — The label that stops every rotation after it — Oct 5, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-secrets-rotation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #52 — Google Groups as the Unit of Access — Oct 4, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-groups-as-unit-of-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
