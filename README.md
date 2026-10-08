@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #49 - Seventy-seven resource types you may already be recording — Oct 8, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-config-resource-types/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #56 — Break-Glass Accounts, Designed Properly — Oct 8, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-break-glass-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #56 — Entitlement Management: Giving Access a Lifecycle — Oct 8, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-entitlement-management/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #76 — A score of 50 means two different things — Oct 8, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-macie-discovery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #48 - The client cannot tell which path it took — Oct 7, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-acm-acme-privatelink/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #55 — Organization-Level Roles, and the Super Admin Problem — Oct 7, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-organization-roles-super-admin/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #55 — Cross-Tenant Access: Trusting Someone Else's MFA — Oct 7, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-cross-tenant-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #75 — Passing because there was nothing to check — Oct 7, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-security-hub-controls/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #47 - The failures were the part that was not logged — Oct 6, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-private-ca-issuance-logs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
