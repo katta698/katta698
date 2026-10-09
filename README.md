@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 7 — CI That Deploys to Azure With No Password Anywhere - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 8 — Taking Back a Permission I Had to Give Away - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
