@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Weekly Intelligence #9 - 5-9 October 2026 — Oct 10, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-5-9-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #9 - 5-9 October 2026 — Oct 10, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-5-9-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #58 — Policy Intelligence and Access Insights — Oct 10, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-policy-intelligence/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #58 — Entra Logs: Thirty Days, Whatever You Paid — Oct 10, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-entra-logs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #50 - A budget can filter by model, which means one budget per model — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-bedrock-cost-attributes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 22 - Container Image Security: A Signature Says Who, Not Whether — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/week-22-container-image-security/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 8 — Taking Back a Permission I Had to Give Away — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/week-08-iam-deny/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
