@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - AWS Daily Intelligence #50 - A budget can filter by model, which means one budget per model — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-bedrock-cost-attributes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 22 - Container Image Security: A Signature Says Who, Not Whether — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/week-22-container-image-security/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 8 — Taking Back a Permission I Had to Give Away — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/week-08-iam-deny/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 12 — The Cheapest Log Is the One You Never Ingested — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/week-12-log-analytics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #57 — IAM Recommender: Role Right-Sizing — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-recommender/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #57 — Lifecycle Workflows: Automation Is Only As Good As the Date — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-lifecycle-workflows/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #77 — The number you sort by does not know where the instance is — Oct 9, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-inspector-scoring/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
