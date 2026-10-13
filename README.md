@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - AWS Daily Intelligence #52 - One environment, many requests at once — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-web-functions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #61 — VPC Networks: Global Scope, Regional Subnets — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-vpc-global-regional/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #61 — VNets and Subnets: The Five Addresses You Never Get — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-vnets-and-subnets/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #81 — Asked again on every request — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-verified-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #60 — An IAM Design for a Multi-Team Organisation — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-design-multi-team/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #60 — Two Planes, One Bridge: Identity Across a Multi-Subscription Estate — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-multi-subscription-identity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #80 — Shared to an account, governed by its IAM — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ram-resource-shares/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
