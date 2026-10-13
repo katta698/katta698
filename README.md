@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- GCP Architecture Series #59 — Auditing IAM: Who Granted What, and When — Oct 11, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-auditing-iam/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #59 — Enterprise Applications: Six Things Called SSO — Oct 11, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-enterprise-apps-sso/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #79 — The deny that nobody wrote — Oct 11, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-verified-permissions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Weekly Intelligence #10 - 5-9 October 2026 — Oct 10, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-5-9-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #51 - Nine columns, and none of them says what you filtered — Oct 10, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-security-hub-findings-export/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #52 - One environment, many requests at once — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-web-functions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #81 — Asked again on every request — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-verified-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #60 — An IAM Design for a Multi-Team Organisation — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-design-multi-team/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #60 — Two Planes, One Bridge: Identity Across a Multi-Subscription Estate — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-multi-subscription-identity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #80 — Shared to an account, governed by its IAM — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ram-resource-shares/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
