@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #53 - The agent that provisions, and the skill that replaced the old one — Oct 14, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-sagemaker-agent-skill/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #62 — Address Planning That Survives Growth and Peering — Oct 14, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-address-planning/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #82 — Normalised is not the same as stable — Oct 14, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-security-lake/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #52 - One environment, many requests at once — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-web-functions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #61 — VPC Networks: Global Scope, Regional Subnets — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-vpc-global-regional/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #61 — VNets and Subnets: The Five Addresses You Never Get — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-vnets-and-subnets/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #81 — Asked again on every request — Oct 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-verified-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #60 — An IAM Design for a Multi-Team Organisation — Oct 12, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-iam-design-multi-team/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
