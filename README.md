@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 22 - Container Image Security: A Signature Says Who, Not Whether - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 9 — Nothing Runs Until Someone Asks - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
