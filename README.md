@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- AWS Daily Intelligence #54 - Your naming convention is now a security input — Oct 15, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-security-hub-resource-criticality/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 9 — Nothing Runs Until Someone Asks — Oct 15, 2026 <a href="https://jayanthkatta.com/blog/week-09-container-apps/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #63 — Subnet Design and Primary IP Ranges — Oct 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-subnet-design-primary-ranges/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #83 — The health check that raises the alarm threshold — Oct 15, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-shield-advanced/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #53 - The agent that provisions, and the skill that replaced the old one — Oct 14, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-sagemaker-agent-skill/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Week 9 — The Service Accounts Nobody Ever Used — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/week-09-sa-lifecycle/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #64 — Network Security Groups: Rules and Evaluation Order — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-nsg-rules-and-evaluation-order/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #55 - Advisory, and on the critical path — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-devops-agent-resilience-hub/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #64 — Secondary Ranges and Alias IP — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-secondary-ranges-alias-ip/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #84 — A view limits what it returns, not who can use another one — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-resource-explorer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
