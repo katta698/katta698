@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- Week 9 — The Service Accounts Nobody Ever Used — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/week-09-sa-lifecycle/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #64 — Network Security Groups: Rules and Evaluation Order — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-nsg-rules-and-evaluation-order/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #55 - Advisory, and on the critical path — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-devops-agent-resilience-hub/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #64 — Secondary Ranges and Alias IP — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-secondary-ranges-alias-ip/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #84 — A view limits what it returns, not who can use another one — Oct 16, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-resource-explorer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Weekly Intelligence #11 - 12-16 October 2026 — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-12-16-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #56 - On for the new plans, off for the ones that have drifted — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-arc-region-switch-quota-checks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Weekly Intelligence #10 - 12-16 October 2026 — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-12-16-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Weekly Intelligence #10 - 12-16 October 2026 — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-12-16-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #65 — Expanding a Subnet, and What Cannot Be Undone — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-expanding-a-subnet/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
