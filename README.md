@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 9 — The Service Accounts Nobody Ever Used - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 23 - Service Networking with VPC Lattice: Who May Call This Service - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
