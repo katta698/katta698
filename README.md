@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 23 - Service Networking with VPC Lattice: Who May Call This Service — Oct 18, 2026 <a href="https://jayanthkatta.com/blog/week-23-service-networking-lattice/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #66 — Application Security Groups — Oct 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-application-security-groups/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #66 — The Addresses Reserved in Every Subnet — Oct 18, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-reserved-addresses/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #86 — Revocation has a start time, and it only moves backwards — Oct 18, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-signer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #11 - 12-16 October 2026 — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-12-16-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #56 - On for the new plans, off for the ones that have drifted — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-arc-region-switch-quota-checks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Weekly Intelligence #10 - 12-16 October 2026 — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-12-16-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Weekly Intelligence #10 - 12-16 October 2026 — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-12-16-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #65 — Expanding a Subnet, and What Cannot Be Undone — Oct 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-expanding-a-subnet/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
