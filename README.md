@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #57 - Your recipe still names a base image, and it is no longer used — Oct 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-image-builder-parent-instance/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #68 — Default Outbound Access and Its Retirement — Oct 20, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-default-outbound-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #68 — Routes: System-Generated and Custom — Oct 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-routes-system-custom/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #88 — The key is the material; the lifecycle belongs to the ARN — Oct 20, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-payment-cryptography/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #67 — Effective Security Rules, and Diagnosing a Blocked Flow — Oct 19, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-effective-security-rules/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #67 — Internal and External IP Addresses, Static and Ephemeral — Oct 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-ip-addresses-static-ephemeral/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #87 — The backup AWS cannot read, and you cannot restore without them — Oct 19, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cloudhsm/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 23 - Service Networking with VPC Lattice: Who May Call This Service — Oct 18, 2026 <a href="https://jayanthkatta.com/blog/week-23-service-networking-lattice/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #66 — Application Security Groups — Oct 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-application-security-groups/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
