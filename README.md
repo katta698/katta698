@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #59 - The VPCs that widen your firewall's trust do not have to send it traffic — Oct 22, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-network-firewall-resolved-ip-validation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #70 — NAT Gateway and SNAT Port Exhaustion — Oct 22, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-nat-gateway/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #70 — Firewall Rules: Structure, Direction and Priority — Oct 22, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-firewall-structure-direction-priority/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #90 — A finding is a path, and no findings is not an answer — Oct 22, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-network-access-analyzer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #58 - The exclude list only knows the tags that exist today — Oct 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-cloudwatch-alarm-tags-payload/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #69 — Routing Order and Route Priority — Oct 21, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-routing-order-priority/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #89 — Your app picks the role; the trust policy decides whether it may — Oct 21, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-cognito-identity-pools/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #69 — Public IPs: Basic Versus Standard, Static Versus Dynamic — Oct 21, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-public-ips/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #57 - Your recipe still names a base image, and it is no longer used — Oct 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-image-builder-parent-instance/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
