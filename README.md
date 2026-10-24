@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 23 - Service Networking with VPC Lattice: Who May Call This Service - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 10 — A Log Says 256ms. A Trace Says Where It Went. - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
