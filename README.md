@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Weekly Intelligence #12 - 19-23 October 2026 — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-19-23-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #61 - A domain allow-list is not an egress control — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-bedrock-web-search-domain-filtering/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 10 — A Log Says 256ms. A Trace Says Where It Went. — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/week-10-opentelemetry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #11 - 19-23 October 2026 — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-19-23-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Weekly Intelligence #11 - 19-23 October 2026 — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-19-23-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #72 — Peering, VPN or ExpressRoute: Three Ways to Join Networks — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-three-ways-to-join-networks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #72 — Targeting by Network Tag Versus by Service Account — Oct 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-tags-vs-service-accounts/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
