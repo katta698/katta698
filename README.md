@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 24 - Chaos Engineering with AWS FIS: The Safety Net That Could Never Close - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 11 — Managed Prometheus, With No Cluster and No Password - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
