@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 11 — Managed Prometheus, With No Cluster and No Password — Oct 28, 2026 <a href="https://jayanthkatta.com/blog/week-11-managed-prometheus/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #62 - The account setting applies to the groups nobody configured — Oct 27, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-asg-launch-before-terminate/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #75 — Firewall Insights and Rule Hygiene — Oct 27, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-firewall-insights-and-rule-hygiene/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #75 — ExpressRoute Circuits, Peerings and Providers — Oct 27, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-expressroute-circuits-peerings-and-providers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #95 — A certificate renews because something is using it — Oct 27, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-certificate-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #74 — Global and Regional Network Firewall Policies — Oct 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-global-regional-network-firewall-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
