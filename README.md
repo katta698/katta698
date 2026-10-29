@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #64 - It exports step input and output, and redaction is something you configure — Oct 29, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-durable-telemetry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #77 — VPC Flow Logs: Sampling, and What They Cost — Oct 29, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-vpc-flow-logs-sampling-and-cost/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #77 — Hub-and-Spoke Topology — Oct 29, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-hub-and-spoke-topology/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #97 — Twenty kilobytes is an architecture decision — Oct 29, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-s3-access-grants/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #63 - It packs by memory and shares everything else — Oct 28, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ecs-gpu-sharing-mps/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 11 — Managed Prometheus, With No Cluster and No Password — Oct 28, 2026 <a href="https://jayanthkatta.com/blog/week-11-managed-prometheus/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #76 — Firewall Rules Logging — Oct 28, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-firewall-rules-logging/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #76 — ExpressRoute Direct, FastPath and Global Reach — Oct 28, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-expressroute-direct-fastpath-and-global-reach/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #96 — Nothing non-compliant is three different answers — Oct 28, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-config/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
