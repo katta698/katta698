@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Weekly Intelligence #13 - 26-30 October 2026 — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-26-30-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #66 - The upgrade became optional; the obligation did not — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-rds-oracle-amvu-optional/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #99 — A restore that finished is not a restore you can use — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-backup-restore-testing/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #65 - The steps run in order; how many times is the agent's call — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-step-functions-agent-tools/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 25 - Serverless Microservices: The Neighbour That Starved Checkout — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/week-25-serverless-microservices/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #78 — Packet Mirroring — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-packet-mirroring/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #78 — User-Defined Routes and Route Tables — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-user-defined-routes-and-route-tables/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #98 — Ignored is not refused — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-backup/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
