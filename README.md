@@ -69,9 +69,9 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <!-- BLOG-POST-LIST:START -->
 - AWS Daily Intelligence #65 - The steps run in order; how many times is the agent's call — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-step-functions-agent-tools/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 25 - Serverless Microservices: The Neighbour That Starved Checkout — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/week-25-serverless-microservices/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #78 — Packet Mirroring — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-packet-mirroring/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #78 — User-Defined Routes and Route Tables — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-user-defined-routes-and-route-tables/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #98 — Ignored is not refused — Oct 30, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-backup/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 11 — Just-in-Time Privileged Access with Privileged Access Manager — Oct 29, 2026 <a href="https://jayanthkatta.com/blog/week-11-jit-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #64 - It exports step input and output, and redaction is something you configure — Oct 29, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-durable-telemetry/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
