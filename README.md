@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #80 — Shared VPC IAM, and the Network Admin Split — Nov 1, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-shared-vpc-iam-and-the-network-admin-split/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #80 — BGP on Azure Gateways — Nov 1, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-bgp-on-azure-gateways/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #100 — Delete a 10 GiB snapshot, free 4 — Nov 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ebs-snapshots/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #13 - 26-30 October 2026 — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-26-30-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #66 - The upgrade became optional; the obligation did not — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-rds-oracle-amvu-optional/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Weekly Intelligence #12 - 26-30 October 2026 — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-26-30-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Weekly Intelligence #12 - 26-30 October 2026 — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-26-30-october-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #79 — Shared VPC: Host Projects and Service Projects — Oct 31, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-shared-vpc-host-and-service-projects/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
