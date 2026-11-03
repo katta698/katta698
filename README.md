@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
-- Azure Architecture Series #81 — Azure Virtual WAN: Hubs and Connectivity — Nov 2, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-virtual-wan-hubs-and-connectivity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #101 — You cannot delete the snapshot; you can delete its key — Nov 2, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ebs-snapshot-lock/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #80 — Shared VPC IAM, and the Network Admin Split — Nov 1, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-shared-vpc-iam-and-the-network-admin-split/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #80 — BGP on Azure Gateways — Nov 1, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-bgp-on-azure-gateways/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #100 — Delete a 10 GiB snapshot, free 4 — Nov 1, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ebs-snapshots/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #67 - Allowed AMIs does not apply to the AMIs you build — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-inspector-ami-scanning/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #82 — Network Connectivity Center: Hubs and Spokes — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-network-connectivity-center-hubs-and-spokes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #82 — Virtual WAN Routing Intent and Policies — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-virtual-wan-routing-intent-and-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #102 — Blocked is not unshared — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ebs-snapshot-public-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #81 — VPC Network Peering, and Its Non-Transitivity — Nov 2, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-vpc-network-peering-non-transitivity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
