@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #68 - Whether these ten arrive depends on a choice you made years ago — Nov 4, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-config-new-resource-types/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #83 — Cloud Router and BGP Fundamentals — Nov 4, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-router-and-bgp-fundamentals/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #83 — Network Virtual Appliances and High Availability — Nov 4, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-network-virtual-appliances-and-high-availability/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #103 — It does not deny the API; it sets the value — Nov 4, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-declarative-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #67 - Allowed AMIs does not apply to the AMIs you build — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-inspector-ami-scanning/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #82 — Network Connectivity Center: Hubs and Spokes — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-network-connectivity-center-hubs-and-spokes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #82 — Virtual WAN Routing Intent and Policies — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-virtual-wan-routing-intent-and-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #102 — Blocked is not unshared — Nov 3, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-ebs-snapshot-public-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #81 — VPC Network Peering, and Its Non-Transitivity — Nov 2, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-vpc-network-peering-non-transitivity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
