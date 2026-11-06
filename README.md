@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Architecture Series #85 — Firewall Manager and Secured Hubs — Nov 6, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-firewall-manager-and-secured-hubs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #69 - A High score does not reserve anything — Nov 5, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ec2-capacity-manager/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #84 — Dynamic Routing Mode: Regional Versus Global — Nov 5, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-dynamic-routing-mode-regional-versus-global/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #84 — Azure Firewall: SKUs, Rules and Policy Hierarchy — Nov 5, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-azure-firewall-skus-rules-and-policy-hierarchy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #104 — It standardises the tags you apply; it cannot make you apply any — Nov 5, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-tag-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #68 - Whether these ten arrive depends on a choice you made years ago — Nov 4, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-config-new-resource-types/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #83 — Cloud Router and BGP Fundamentals — Nov 4, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-router-and-bgp-fundamentals/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
