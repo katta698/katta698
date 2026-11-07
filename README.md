@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Weekly Intelligence #13 — 2-6 November 2026 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-2-6-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Weekly Intelligence #13 - 2-6 November 2026 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-2-6-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #86 — HA VPN Topologies and Their SLAs — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-ha-vpn-topologies-and-their-slas/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #86 — Web Application Firewall on Front Door and Application Gateway — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-web-application-firewall-on-front-door-and-application-gateway/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 12 — Secret Management: CMEK, and Two Things Called Rotation — Nov 6, 2026 <a href="https://jayanthkatta.com/blog/week-12-secret-management/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #70 - It consumes no capacity, which is not the same as no impact — Nov 6, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-dynamodb-bulk-put-items/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #85 — Cloud VPN: Classic Versus HA VPN — Nov 6, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-vpn-classic-versus-ha-vpn/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #85 — Firewall Manager and Secured Hubs — Nov 6, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-firewall-manager-and-secured-hubs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #105 — Partial results look exactly like complete ones — Nov 6, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-resource-explorer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
