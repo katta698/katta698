@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 25 - Serverless Microservices: The Neighbour That Starved Checkout - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 12 — Secret Management: CMEK, and Two Things Called Rotation - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
