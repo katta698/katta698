@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #87 — Cloud Interconnect: Dedicated — Nov 8, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-interconnect-dedicated/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #87 — DDoS Protection: IP and Network Tiers — Nov 8, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-ddos-protection-ip-and-network-tiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #14 - 2-6 November 2026 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-2-6-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 12 — Detections as Code, and the Rule That Had to Stay Silent — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/week-12-detections-as-code/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #71 - In memory it is 16,000,000 bytes; in a column it is still 65,535 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-redshift-super-large-strings/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Weekly Intelligence #13 — 2-6 November 2026 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-2-6-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Weekly Intelligence #13 - 2-6 November 2026 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-2-6-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
