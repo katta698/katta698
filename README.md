@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 12 — Detections as Code, and the Rule That Had to Stay Silent - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 26 - Tenant Isolation on DynamoDB: The Cache That Answered a Question It Was Never Asked - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
