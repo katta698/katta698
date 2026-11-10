@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - Week 26 - Tenant Isolation on DynamoDB: The Cache That Answered a Question It Was Never Asked — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/week-26-dynamodb-tenant-isolation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #88 — Azure DNS Public Zones — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-azure-dns-public-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #87 — Cloud Interconnect: Dedicated — Nov 8, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-interconnect-dedicated/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #87 — DDoS Protection: IP and Network Tiers — Nov 8, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-ddos-protection-ip-and-network-tiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #107 — The application was a tag with an ARN in it — Nov 8, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-appregistry-application-tag/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Weekly Intelligence #14 - 2-6 November 2026 — Nov 7, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-2-6-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
