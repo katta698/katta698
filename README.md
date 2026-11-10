@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #72 - The memory is isolated; the network stack is shared — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-nitro-sandboxes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #89 — Cross-Cloud Interconnect — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cross-cloud-interconnect/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #89 — Private DNS Zones and Virtual Network Links — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-private-dns-zones-and-virtual-network-links/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #109 — The stop condition halts the experiment, not the damage — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-fis-stop-conditions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 26 - Tenant Isolation on DynamoDB: The Cache That Answered a Question It Was Never Asked — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/week-26-dynamodb-tenant-isolation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #88 — Cloud Interconnect: Partner — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-interconnect-partner/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #88 — Azure DNS Public Zones — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-azure-dns-public-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #108 — Policy met means estimated to meet — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-resilience-hub-estimates/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #87 — Cloud Interconnect: Dedicated — Nov 8, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-interconnect-dedicated/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
