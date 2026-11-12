@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #74 - The Cloud WAN metadata is best effort — Nov 12, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-cloud-wan-flow-logs/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #91 — Private Endpoints: What They Actually Change — Nov 12, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-private-endpoints-what-they-actually-change/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #111 — A stopped canary looks exactly like a healthy service — Nov 12, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-synthetics-canaries/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #73 - Bring your own alarm, own its silence — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-promql-alarms-autoscaling/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #90 — Private Google Access — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-google-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #90 — DNS Private Resolver and Hybrid Resolution — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-dns-private-resolver-and-hybrid-resolution/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #110 — Not in ALARM is not OK — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-alarm-states-missing-data/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #72 - The memory is isolated; the network stack is shared — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-nitro-sandboxes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
