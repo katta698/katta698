@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #73 - Bring your own alarm, own its silence — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-promql-alarms-autoscaling/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #90 — Private Google Access — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-google-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #90 — DNS Private Resolver and Hybrid Resolution — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-dns-private-resolver-and-hybrid-resolution/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #110 — Not in ALARM is not OK — Nov 11, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-alarm-states-missing-data/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #72 - The memory is isolated; the network stack is shared — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-nitro-sandboxes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #89 — Cross-Cloud Interconnect — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cross-cloud-interconnect/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #89 — Private DNS Zones and Virtual Network Links — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-private-dns-zones-and-virtual-network-links/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #109 — The stop condition halts the experiment, not the damage — Nov 10, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-fis-stop-conditions/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 26 - Tenant Isolation on DynamoDB: The Cache That Answered a Question It Was Never Asked — Nov 9, 2026 <a href="https://jayanthkatta.com/blog/week-26-dynamodb-tenant-isolation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
