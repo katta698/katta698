@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Weekly Intelligence #14 - 9-13 November 2026 — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-9-13-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #93 — Private Service Connect: Consumer Endpoints — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-service-connect-consumer-endpoints/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #75 - The agent fills the form; you still submit it — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-image-builder-devops-agent/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 27 - ElastiCache for Valkey: Twenty Thousand Requests, Three Different Bills — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/week-27-elasticache-valkey/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #92 — Restricted and Private VIPs, and the DNS Records Behind Them — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-restricted-and-private-vips/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #92 — Private Link Service and Consumer Approval — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-private-link-service-and-consumer-approval/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #112 — The datapoint is a query, and the query can run before the logs arrive — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-log-alarms/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
