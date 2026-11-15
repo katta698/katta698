@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Week 13 — Diagnostic Settings at Scale, and the Two Resources That Were Never Going to Comply — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/week-13-diagnostic-settings-at-scale/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Weekly Intelligence #15 - 9-13 November 2026 — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-9-13-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #76 - One alternation in a regex, and OIDC stops being required — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-agentcore-oauth2-discovery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Weekly Intelligence #14 — 9-13 November 2026 — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-9-13-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Weekly Intelligence #14 - 9-13 November 2026 — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-9-13-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #93 — Private Service Connect: Consumer Endpoints — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-service-connect-consumer-endpoints/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #75 - The agent fills the form; you still submit it — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-image-builder-devops-agent/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 27 - ElastiCache for Valkey: Twenty Thousand Requests, Three Different Bills — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/week-27-elasticache-valkey/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #92 — Restricted and Private VIPs, and the DNS Records Behind Them — Nov 13, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-restricted-and-private-vips/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
