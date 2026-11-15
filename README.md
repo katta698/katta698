@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 27 - ElastiCache for Valkey: Twenty Thousand Requests, Three Different Bills - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 13 — Diagnostic Settings at Scale, and the Two Resources That Were Never Going to Comply - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
