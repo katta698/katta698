@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #95 — Private Service Connect for Google APIs — Nov 16, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-service-connect-for-google-apis/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #95 — Load Balancer: SKUs, Rules and Health Probes — Nov 16, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-load-balancer-skus-rules-and-health-probes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #115 — A retryable error waits 24 hours; a permissions error skips the logs — Nov 16, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-subscription-filters/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 13 — HA VPN and BGP: The Route Nobody Wrote — Nov 15, 2026 <a href="https://jayanthkatta.com/blog/week-13-hybrid-connectivity/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #94 — Private Service Connect: Published Services — Nov 15, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-service-connect-published-services/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #94 — The Private Endpoint DNS Problem, End to End — Nov 15, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-the-private-endpoint-dns-problem-end-to-end/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #114 — Cheaper to write, the same price to read, and no index to make reading cheaper — Nov 15, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-log-classes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 13 — Diagnostic Settings at Scale, and the Two Resources That Were Never Going to Comply — Nov 14, 2026 <a href="https://jayanthkatta.com/blog/week-13-diagnostic-settings-at-scale/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
