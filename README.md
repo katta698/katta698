@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #78 - The queue gives up the sequence number, and the order with it — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-kinesis-data-streams-queues/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #97 — Cloud DNS: Public Zones — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-dns-public-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #97 — Application Gateway: Listeners, Rules and Backend Pools — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-application-gateway-listeners-rules-and-backend-pools/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #117 — Masking hides the data on the way out; one permission puts it back — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-log-data-protection/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #77 - A second key on the snapshot, and the data never moves — Nov 17, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ebs-associated-kms-keys/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #96 — Service Networking, and the Peering Managed Services Create — Nov 17, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-service-networking-private-services-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #96 — Load Balancer Outbound Rules — Nov 17, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-load-balancer-outbound-rules/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #116 — Six policies, one API, and only one of them deletes data — Nov 17, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-account-level-log-policies/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #95 — Private Service Connect for Google APIs — Nov 16, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-private-service-connect-for-google-apis/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
