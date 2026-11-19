@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 13 — HA VPN and BGP: The Route Nobody Wrote - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 28 - The Failover Nobody Runs: 160 Seconds, Measured - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
