@@ -68,10 +68,10 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 
 <!-- BLOG-POST-LIST:START -->
 - AWS Daily Intelligence #79 - The image must outlive the version, or your cold starts fail — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-customer-managed-runtimes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #98 — Cloud DNS: Private Zones and Visibility — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-dns-private-zones-and-visibility/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Azure Architecture Series #98 — Application Gateway v2 Autoscaling and Zone Redundancy — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-application-gateway-v2-autoscaling-and-zone-redundancy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #118 — The regex is an allow-list of characters, and brackets are not parentheses — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-custom-data-identifiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #78 - The queue gives up the sequence number, and the order with it — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-kinesis-data-streams-queues/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 28 - The Failover Nobody Runs: 160 Seconds, Measured — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/week-28-rds-multi-region-failover/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
