@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #81 - The tag filter is an OR, and an account tag matches as if it were the resource's — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aws-health-tags/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #80 - A fifth status check, and it increments the metric your automation already watches — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ec2-performance-status-checks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #119 — Three update modes, and one of them means nobody is patching you — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-lambda-runtime-responsibility/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #79 - The image must outlive the version, or your cold starts fail — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-customer-managed-runtimes/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #98 — Cloud DNS: Private Zones and Visibility — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-dns-private-zones-and-visibility/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #98 — Application Gateway v2 Autoscaling and Zone Redundancy — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-application-gateway-v2-autoscaling-and-zone-redundancy/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #118 — The regex is an allow-list of characters, and brackets are not parentheses — Nov 19, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-custom-data-identifiers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #78 - The queue gives up the sequence number, and the order with it — Nov 18, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-kinesis-data-streams-queues/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
