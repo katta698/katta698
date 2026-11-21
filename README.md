@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Weekly Intelligence #16 - 16-20 November 2026 — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-16-20-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #83 - Catalog-scale anomaly detection, and the anomaly it learns to call normal — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-glue-catalog-data-quality/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Daily Intelligence #82 - A zero-flow alarm on a metric that does not publish zeros — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-vpc-lattice-resource-metrics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #120 — Recovery is a migration that looks like a reboot, and only one check starts it — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-instance-recovery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #81 - The tag filter is an OR, and an account tag matches as if it were the resource's — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aws-health-tags/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #80 - A fifth status check, and it increments the metric your automation already watches — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-ec2-performance-status-checks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #99 — DNS Peering and Forwarding Zones — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-dns-peering-and-forwarding-zones/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #99 — Front Door: Routing, Caching and the Rules Engine — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-front-door-routing-caching-and-the-rules-engine/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #119 — Three update modes, and one of them means nobody is patching you — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-lambda-runtime-responsibility/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
