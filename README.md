@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- Azure Weekly Intelligence #15 — 16-20 November 2026 — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/azure-weekly-intelligence-16-20-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Weekly Intelligence #16 - 16-20 November 2026 — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-weekly-intelligence-16-20-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Weekly Intelligence #15 - 16-20 November 2026 — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/gcp-weekly-intelligence-16-20-november-2026/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #83 - Catalog-scale anomaly detection, and the anomaly it learns to call normal — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-glue-catalog-data-quality/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #82 - A zero-flow alarm on a metric that does not publish zeros — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-vpc-lattice-resource-metrics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #120 — Recovery is a migration that looks like a reboot, and only one check starts it — Nov 21, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-instance-recovery/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #81 - The tag filter is an OR, and an account tag matches as if it were the resource's — Nov 20, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-aws-health-tags/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
