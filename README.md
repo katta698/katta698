@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #84 - The plugin you reviewed at install is not the one you keep — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-quick-plugins/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- GCP Architecture Series #103 — Load Balancing: The Decision Tree — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-load-balancing-decision-tree/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #103 — VNet Flow Logs and Traffic Analytics — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-vnet-flow-logs-and-traffic-analytics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #123 — The default warm pool is the size of your emergency headroom — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-asg-warm-pools/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #102 — Cloud NAT Sizing, and the Port Exhaustion Failure — Nov 23, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-cloud-nat-sizing-and-port-exhaustion/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #102 — Network Watcher: Connection Troubleshoot and Packet Capture — Nov 23, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-network-watcher-connection-troubleshoot-and-packet-capture/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Architecture Series #122 — Abandon and continue both terminate the instance — Nov 23, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-asg-lifecycle-hooks/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 14 — A Database With No Password, and a Failover Measured From the Client — Nov 22, 2026 <a href="https://jayanthkatta.com/blog/week-14-postgres-no-passwords/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Week 14 — Private Service Connect: What "Private" Actually Means — Nov 22, 2026 <a href="https://jayanthkatta.com/blog/week-14-private-service-connect/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
