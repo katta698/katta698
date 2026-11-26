@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- GCP Architecture Series #104 — The Global External Application Load Balancer — Nov 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-global-external-application-load-balancer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #104 — Network Segmentation Patterns for Regulated Workloads — Nov 26, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-network-segmentation-patterns-for-regulated-workloads/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #85 - The largest instruction channel is the one nobody sees in the UI — Nov 25, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-quick-ai-ready-datasets/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Architecture Series #124 — On $Latest there is no way back — Nov 25, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-asg-instance-refresh/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - AWS Daily Intelligence #84 - The plugin you reviewed at install is not the one you keep — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-quick-plugins/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #103 — Load Balancing: The Decision Tree — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-load-balancing-decision-tree/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #103 — VNet Flow Logs and Traffic Analytics — Nov 24, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-vnet-flow-logs-and-traffic-analytics/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
