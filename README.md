@@ -23,7 +23,7 @@ I build production-grade AWS infrastructure: VPCs that do not leak, IAM that doe
 
 | Focus | Current work |
 |:---|:---|
-| **Building** | Week 14 — A Database With No Password, and a Failover Measured From the Client - 52-week AWS Platform Engineering Lab |
+| **Building** | Week 29 - The Migration That Said It Was Done - 52-week AWS Platform Engineering Lab |
 | **Learning** | HashiCorp Certified Terraform Associate 004 |
 | **Pursuing** | AWS Solutions Architect Professional |
 
