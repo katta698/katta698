@@ -67,11 +67,11 @@ Ten ongoing series. Counts below are generated from the blog, not typed by hand.
 <img src="assets/section-04-writing.svg" height="40" alt="04 — LATEST WRITING" />
 
 <!-- BLOG-POST-LIST:START -->
+- AWS Daily Intelligence #87 - The orchestrator gets a year, the MicroVM gets eight hours — Nov 27, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-lambda-durable-microvm/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - Week 29 - The Migration That Said It Was Done — Nov 27, 2026 <a href="https://jayanthkatta.com/blog/week-29-dms-migration-validation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- Azure Architecture Series #106 — Just-in-Time VM Access — Nov 27, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-just-in-time-vm-access/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
+- AWS Architecture Series #126 — A protected instance has no maximum lifetime — Nov 27, 2026 <a href="https://jayanthkatta.com/blog/aws-architecture-asg-max-instance-lifetime/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 - GCP Architecture Series #105 — Regional External and Internal Application Load Balancers — Nov 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-regional-external-and-internal-application-load-balancers/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- Azure Architecture Series #105 — Bastion: SKUs, Native Client and Shareable Links — Nov 26, 2026 <a href="https://jayanthkatta.com/blog/azure-architecture-bastion-skus-native-client-and-shareable-links/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- AWS Daily Intelligence #86 - Turning it on can reject the logins that already work — Nov 26, 2026 <a href="https://jayanthkatta.com/blog/aws-daily-intelligence-iam-trusted-identity-propagation/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
-- GCP Architecture Series #104 — The Global External Application Load Balancer — Nov 26, 2026 <a href="https://jayanthkatta.com/blog/gcp-architecture-global-external-application-load-balancer/"><img src="assets/link-read.svg" height="22" alt="Read post" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://jayanthkatta.com/blog/"><img src="assets/link-writing.svg" height="34" alt="Read all writing" /></a>
